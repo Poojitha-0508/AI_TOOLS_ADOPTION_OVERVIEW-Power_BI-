@@ -69,4 +69,4 @@ This project demonstrates **data analysis, visualization, and dashboard storytel
 
 ## 👤 Author
 
-Pooja
+Poojitha Attili
