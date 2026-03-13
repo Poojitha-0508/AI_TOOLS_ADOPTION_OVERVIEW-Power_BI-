@@ -1,0 +1,1201 @@
+Year,Tool_Name,Industry,Purpose,Region,Users_Count,Daily_Usage_Hours,Productivity_Gain_Percent,Satisfaction_Level
+2021,GrammarlyGO,E-commerce,Data Analysis,North America,96901,3.74,42.1,1
+2022,Beautiful.ai,Education,Presentations,Africa,77852,1.03,16.9,2
+2024,Synthesia,Education,Presentations,South America,129376,0.4,63.3,3
+2025,DALL-E,Finance,Design,Africa,105023,4.21,20.1,5
+2023,Pictory,Healthcare,Design,South America,68097,1.73,37.9,4
+2022,Gamma AI,Design,Content Writing,Oceania,68028,2.33,24.6,5
+2022,Notion AI,Healthcare,Research,Europe,51615,1.67,28.9,2
+2022,DeepL Write,Healthcare,Meeting Notes,South America,91427,2.44,52.8,5
+2025,Codeium,E-commerce,Research,Asia,84025,3.08,10.6,3
+2021,DALL-E,Finance,Content Writing,Europe,39257,3.16,17.7,3
+2023,Adobe Firefly,Education,Research,South America,63980,3.52,33.1,2
+2023,Writesonic,Software Development,Coding,North America,73249,0.87,36.2,1
+2022,Durable AI,E-commerce,Content Writing,Africa,106676,1.77,37.6,4
+2023,Tabnine,E-commerce,Content Writing,South America,45374,2.87,18.5,2
+2021,Codeium,Software Development,Research,South America,104153,0.72,19.2,4
+2024,Notion AI,Design,Design,South America,87141,0.51,26.5,2
+2025,Copy.ai,Education,Meeting Notes,Asia,37644,4.2,28.3,5
+2021,Writesonic,Healthcare,Meeting Notes,Asia,60404,1.62,38.9,1
+2025,Copy.ai,Marketing,Data Analysis,Oceania,91722,0.65,64.3,5
+2023,Pictory,Marketing,Design,North America,70447,3.93,19.3,1
+2024,Pictory,Finance,Presentations,North America,112929,3.92,12.2,1
+2022,Notion AI,Media,Design,Asia,109938,1.98,14.6,2
+2023,Notion AI,Marketing,Content Writing,South America,91937,1.86,11.6,3
+2021,Writesonic,Finance,Meeting Notes,Asia,111266,1.76,26.5,1
+2025,Phind,Software Development,Content Writing,South America,106375,4.47,34.9,1
+2022,Pictory,Finance,Coding,Oceania,122687,0.86,48.7,5
+2025,Stable Diffusion,Media,Presentations,North America,92841,3.92,36.1,3
+2024,GitHub Copilot,E-commerce,Presentations,Europe,128141,2.76,32.4,5
+2024,Adobe Firefly,Marketing,Image Generation,South America,84611,1.78,37.0,2
+2021,Stable Diffusion,Design,Coding,South America,73029,4.57,22.2,4
+2023,GitHub Copilot,Education,Content Writing,Africa,126336,1.38,12.4,2
+2021,GrammarlyGO,Media,Data Analysis,North America,66451,1.66,17.2,5
+2022,DALL-E,E-commerce,Data Analysis,South America,109462,4.08,18.6,4
+2021,Otter.ai,Healthcare,Research,North America,91862,4.5,38.7,5
+2021,Cursor AI,Software Development,Presentations,Europe,60938,1.37,32.3,4
+2022,Tome AI,Marketing,Presentations,Asia,72170,4.14,57.1,1
+2022,Otter.ai,E-commerce,Content Writing,South America,82153,2.26,20.7,4
+2024,Synthesia,E-commerce,Design,North America,74962,0.86,27.2,1
+2024,Google Gemini,Software Development,Coding,South America,77161,2.74,48.1,1
+2025,Codeium,Media,Image Generation,Africa,94121,2.01,63.4,2
+2025,Replit Ghostwriter,Marketing,Coding,North America,24436,1.64,10.1,2
+2024,Claude,Software Development,Image Generation,Europe,81204,3.16,36.7,3
+2021,Claude,E-commerce,Presentations,South America,76229,0.98,35.9,4
+2024,Codeium,Finance,Image Generation,North America,91046,4.93,21.8,2
+2025,Fireflies.ai,Design,Design,Asia,116284,1.42,49.5,3
+2023,DeepL Write,Media,Coding,Africa,104557,2.03,44.0,2
+2024,Wordtune,Media,Image Generation,Oceania,99605,0.72,55.6,4
+2024,DeepL Write,Finance,Presentations,Asia,147713,1.81,18.6,5
+2021,QuillBot,E-commerce,Presentations,South America,84989,3.48,8.9,3
+2025,Descript,Education,Image Generation,Africa,66895,2.71,20.9,3
+2021,Fireflies.ai,E-commerce,Data Analysis,Asia,50130,3.55,30.0,3
+2023,Otter.ai,Education,Content Writing,North America,96207,4.7,15.8,2
+2022,Tome AI,Marketing,Design,Asia,58502,4.65,58.0,5
+2025,Fireflies.ai,Software Development,Research,Asia,72338,1.51,45.6,2
+2025,Writesonic,E-commerce,Content Writing,Europe,88823,2.79,21.8,4
+2025,Descript,E-commerce,Data Analysis,Africa,121214,0.74,59.1,4
+2024,Wordtune,Design,Meeting Notes,Asia,89796,1.89,27.9,2
+2023,Canva Magic Write,Marketing,Coding,Africa,105454,3.71,59.1,4
+2025,Writesonic,Marketing,Meeting Notes,South America,89514,3.32,12.8,5
+2024,Copy.ai,Media,Data Analysis,South America,92393,1.06,59.2,3
+2023,Cursor AI,Software Development,Image Generation,North America,90792,0.32,17.2,3
+2021,Adobe Firefly,Finance,Presentations,Asia,60569,2.88,47.4,5
+2024,Codeium,Finance,Data Analysis,Africa,46260,3.65,21.5,3
+2023,Wordtune,Design,Coding,Oceania,101696,1.83,50.6,3
+2025,Stable Diffusion,Marketing,Research,Europe,110901,3.39,40.4,2
+2024,Synthesia,Education,Presentations,South America,94383,0.74,29.0,1
+2022,Google Gemini,Marketing,Coding,South America,55314,4.87,30.4,5
+2025,Durable AI,Education,Coding,Africa,57525,4.49,44.0,2
+2025,Durable AI,Education,Image Generation,Africa,82390,3.01,36.1,4
+2022,Perplexity AI,Marketing,Meeting Notes,South America,125606,1.22,49.2,2
+2024,Beautiful.ai,Finance,Design,North America,49873,4.72,62.4,3
+2023,Descript,Design,Research,Africa,96474,4.6,29.1,2
+2025,Jasper AI,Software Development,Coding,Europe,96197,4.83,56.6,4
+2021,GitHub Copilot,Education,Data Analysis,Oceania,79815,1.68,30.0,3
+2025,Stable Diffusion,E-commerce,Presentations,North America,68604,1.1,39.7,2
+2025,Runway ML,Marketing,Research,Asia,107691,4.7,47.7,3
+2023,Replit Ghostwriter,Design,Coding,Asia,55484,3.19,64.4,4
+2022,Codeium,Design,Design,Africa,86611,0.96,37.5,2
+2023,ChatGPT,Software Development,Meeting Notes,South America,92733,3.58,48.0,4
+2021,Codeium,Design,Content Writing,South America,98823,1.99,24.7,2
+2021,Pictory,Marketing,Coding,Asia,97451,4.38,60.1,2
+2021,Stable Diffusion,Marketing,Research,Asia,97413,2.7,36.6,2
+2023,Wordtune,E-commerce,Content Writing,North America,99126,3.6,53.4,1
+2021,Otter.ai,Marketing,Image Generation,South America,116066,4.48,27.3,4
+2022,DALL-E,Design,Data Analysis,Europe,58815,3.02,10.0,5
+2025,Runway ML,Marketing,Data Analysis,Europe,74895,2.49,38.9,4
+2024,GitHub Copilot,Marketing,Data Analysis,Asia,102587,0.44,10.1,2
+2024,Fireflies.ai,Media,Image Generation,North America,33618,4.17,28.5,1
+2021,Jasper AI,Design,Research,Africa,83928,3.92,20.3,5
+2021,Writesonic,Finance,Data Analysis,Europe,49667,3.23,12.9,1
+2023,Runway ML,E-commerce,Coding,South America,83367,2.84,44.3,2
+2024,Stable Diffusion,Healthcare,Image Generation,Europe,62451,3.71,63.6,1
+2023,Otter.ai,Design,Design,North America,21245,4.04,23.4,5
+2023,DeepL Write,Design,Coding,Oceania,87593,2.36,12.5,2
+2025,Fireflies.ai,Design,Coding,Africa,97149,2.22,17.9,3
+2022,Claude,Marketing,Content Writing,Africa,107972,1.04,22.3,5
+2022,Jasper AI,Design,Design,North America,134963,3.4,24.0,3
+2025,GrammarlyGO,Design,Content Writing,North America,94149,4.79,50.1,3
+2024,Looka AI,Media,Content Writing,Oceania,145664,2.27,22.1,4
+2024,Writesonic,Design,Data Analysis,Oceania,112973,1.97,51.2,2
+2022,Pictory,Software Development,Design,North America,95314,2.53,13.6,5
+2024,Beautiful.ai,Marketing,Meeting Notes,Oceania,105239,2.61,35.0,1
+2022,DALL-E,Healthcare,Presentations,Asia,74422,2.17,43.1,1
+2025,GitHub Copilot,Education,Data Analysis,Oceania,44566,3.28,10.6,4
+2023,Adobe Firefly,Finance,Design,North America,125238,2.66,56.8,2
+2023,Writesonic,Education,Design,South America,38924,3.4,17.3,3
+2024,Beautiful.ai,Media,Meeting Notes,Oceania,87971,0.42,41.4,5
+2025,Canva Magic Write,Finance,Coding,Europe,63993,4.72,40.8,1
+2023,Cursor AI,E-commerce,Data Analysis,Oceania,129580,2.45,39.1,5
+2021,Stable Diffusion,Software Development,Coding,Europe,44865,4.72,30.0,4
+2021,ChatGPT,Media,Research,North America,90429,0.63,26.2,3
+2022,DeepL Write,Design,Content Writing,North America,63319,4.27,9.3,2
+2022,Perplexity AI,E-commerce,Research,Africa,64319,0.86,47.7,1
+2021,Notion AI,E-commerce,Coding,Oceania,107488,3.26,58.0,2
+2022,QuillBot,Finance,Data Analysis,South America,106385,1.63,18.1,3
+2023,Cursor AI,Marketing,Presentations,Europe,100888,3.83,54.0,5
+2023,Fireflies.ai,Media,Design,Asia,81372,2.05,52.3,5
+2023,Descript,Education,Presentations,Europe,85519,1.9,61.1,3
+2023,Cursor AI,Software Development,Presentations,North America,75469,3.83,51.0,4
+2024,DALL-E,Finance,Design,Africa,114963,0.78,59.4,1
+2021,Runway ML,Education,Research,Africa,121164,1.8,59.0,1
+2022,Descript,Healthcare,Design,Europe,82630,2.13,8.6,1
+2021,Durable AI,Software Development,Presentations,Oceania,91724,4.77,40.7,5
+2024,QuillBot,Software Development,Data Analysis,North America,78095,3.27,33.6,4
+2024,Tabnine,Software Development,Content Writing,Asia,51819,3.46,50.9,1
+2023,Canva Magic Write,E-commerce,Content Writing,South America,45574,4.02,53.0,4
+2025,Looka AI,Finance,Data Analysis,Africa,81632,0.57,39.3,5
+2025,Gamma AI,Software Development,Image Generation,Oceania,55082,2.38,58.6,1
+2023,Claude,Finance,Presentations,Oceania,57235,0.97,51.4,2
+2022,Google Gemini,Marketing,Research,Oceania,72358,3.21,13.8,5
+2025,Codeium,Finance,Research,Oceania,89348,0.64,54.8,4
+2021,Stable Diffusion,E-commerce,Presentations,Oceania,66791,3.62,12.6,4
+2023,Writesonic,Media,Data Analysis,Africa,38557,4.12,62.0,4
+2021,ChatGPT,Marketing,Image Generation,Asia,39776,4.93,50.9,1
+2022,Wordtune,Media,Research,Asia,60446,3.95,39.8,2
+2021,Looka AI,Software Development,Data Analysis,Asia,75596,2.29,59.7,1
+2025,ChatGPT,E-commerce,Meeting Notes,Europe,81429,0.35,34.7,2
+2022,GitHub Copilot,Finance,Meeting Notes,Europe,51924,0.56,14.8,1
+2023,GitHub Copilot,Finance,Content Writing,Europe,91681,3.81,41.3,5
+2021,Phind,Media,Research,Europe,57183,4.82,29.4,5
+2024,Otter.ai,E-commerce,Coding,North America,102704,1.35,62.9,2
+2021,Beautiful.ai,E-commerce,Design,Asia,69963,0.36,63.3,4
+2022,Jasper AI,Healthcare,Presentations,Asia,88722,0.65,39.6,5
+2024,Codeium,Media,Coding,North America,82377,4.86,37.8,2
+2025,GrammarlyGO,Education,Presentations,Europe,125534,2.44,43.8,4
+2024,Canva Magic Write,Design,Coding,Africa,110778,3.05,59.4,1
+2021,Looka AI,Education,Presentations,South America,147694,1.6,18.7,4
+2022,QuillBot,Design,Design,South America,57751,2.48,28.1,1
+2025,Durable AI,Software Development,Coding,Africa,59226,4.88,64.2,4
+2025,Stable Diffusion,Healthcare,Data Analysis,Africa,86511,3.58,38.6,5
+2024,Fireflies.ai,Education,Coding,Asia,110512,3.52,17.3,5
+2021,Otter.ai,Marketing,Presentations,North America,64692,4.58,54.9,5
+2023,Perplexity AI,E-commerce,Design,Asia,42393,4.68,57.4,4
+2024,Notion AI,Healthcare,Content Writing,Africa,136943,0.51,9.5,2
+2023,Midjourney,Software Development,Image Generation,Europe,117383,4.94,16.6,5
+2021,QuillBot,Healthcare,Meeting Notes,North America,67924,3.09,29.7,2
+2024,Claude,Marketing,Design,Oceania,78563,2.25,23.6,1
+2023,Notion AI,Healthcare,Content Writing,Europe,119134,0.56,57.3,3
+2025,Cursor AI,E-commerce,Research,Europe,82157,3.91,61.9,3
+2023,Google Gemini,Software Development,Research,North America,83409,4.29,22.1,3
+2023,Perplexity AI,Software Development,Content Writing,Oceania,49971,4.78,42.6,5
+2024,Cursor AI,Marketing,Research,Oceania,77728,1.37,46.3,1
+2025,Replit Ghostwriter,Finance,Design,North America,35976,0.83,46.3,1
+2023,Notion AI,Healthcare,Presentations,North America,120330,2.75,52.0,4
+2023,Pictory,Marketing,Research,Europe,117378,2.89,40.0,3
+2024,Replit Ghostwriter,Finance,Content Writing,South America,84025,4.42,31.0,1
+2024,Gamma AI,Finance,Image Generation,Europe,101361,3.61,20.1,3
+2024,Otter.ai,Media,Data Analysis,Oceania,123058,0.94,8.8,1
+2023,Phind,Healthcare,Presentations,Asia,113752,2.14,32.9,3
+2024,GitHub Copilot,Design,Image Generation,Asia,29237,4.55,27.9,1
+2025,Codeium,Education,Meeting Notes,South America,127070,2.16,43.5,1
+2024,Notion AI,E-commerce,Data Analysis,North America,84222,4.35,62.1,1
+2024,Beautiful.ai,E-commerce,Image Generation,Africa,30898,2.46,63.9,3
+2022,DALL-E,E-commerce,Design,Africa,80333,2.62,26.7,2
+2025,Gamma AI,Healthcare,Coding,Europe,42865,0.66,15.3,4
+2025,Pictory,Design,Presentations,Europe,102090,0.9,16.7,2
+2021,Descript,Software Development,Design,Europe,92997,1.15,27.7,3
+2022,Copy.ai,Media,Data Analysis,Oceania,53803,4.51,35.0,3
+2024,Otter.ai,Marketing,Coding,Oceania,52428,1.2,10.3,3
+2021,Notion AI,Finance,Presentations,Europe,97121,1.09,23.9,4
+2024,Looka AI,Education,Presentations,Europe,78789,1.27,28.8,5
+2024,Copy.ai,Finance,Meeting Notes,Africa,50942,2.67,47.4,2
+2024,Murf AI,E-commerce,Content Writing,North America,61008,4.41,60.5,2
+2023,Canva Magic Write,Software Development,Research,North America,88419,0.59,23.8,4
+2021,Gamma AI,Healthcare,Image Generation,Europe,100425,1.17,19.9,3
+2023,Phind,Healthcare,Design,South America,104725,2.04,35.6,3
+2023,Jasper AI,E-commerce,Meeting Notes,Europe,36544,2.47,50.6,1
+2023,GrammarlyGO,E-commerce,Data Analysis,Africa,123006,0.47,22.4,3
+2023,Notion AI,Healthcare,Design,Asia,99296,2.7,38.3,3
+2024,Jasper AI,Media,Presentations,Oceania,91337,0.8,33.5,4
+2023,DeepL Write,Finance,Image Generation,Europe,33806,1.57,29.5,4
+2021,Codeium,Marketing,Data Analysis,Oceania,88103,0.39,26.4,3
+2025,Midjourney,Software Development,Presentations,Oceania,62602,0.86,58.8,1
+2023,Claude,Marketing,Presentations,Oceania,49553,3.09,46.7,2
+2023,Beautiful.ai,Media,Presentations,Oceania,81760,0.71,38.6,5
+2025,Writesonic,Marketing,Design,Europe,126398,3.06,50.5,1
+2024,Beautiful.ai,Marketing,Presentations,South America,50882,1.63,28.7,3
+2023,Jasper AI,Education,Image Generation,Europe,76289,3.34,40.5,5
+2024,DeepL Write,Media,Image Generation,Oceania,40042,0.78,16.7,1
+2023,Otter.ai,Software Development,Meeting Notes,Europe,98889,1.46,17.2,3
+2022,Cursor AI,Healthcare,Presentations,Asia,64228,1.11,59.1,5
+2021,Murf AI,Healthcare,Presentations,Asia,56080,0.68,37.9,3
+2025,GrammarlyGO,Finance,Presentations,Europe,90113,0.83,30.7,3
+2022,Midjourney,Healthcare,Coding,Africa,80492,4.86,57.3,5
+2022,Canva Magic Write,E-commerce,Research,Oceania,64696,1.1,46.1,5
+2023,Tome AI,Marketing,Design,Africa,104661,4.67,39.7,2
+2021,Beautiful.ai,Media,Data Analysis,South America,31917,3.92,18.7,3
+2023,Looka AI,Software Development,Data Analysis,North America,98300,1.82,32.2,2
+2024,Synthesia,Software Development,Content Writing,North America,33173,0.84,42.8,1
+2025,Adobe Firefly,Software Development,Meeting Notes,Asia,83442,1.66,41.1,5
+2023,Durable AI,Education,Presentations,Europe,80017,2.8,11.0,4
+2021,Synthesia,Software Development,Image Generation,Asia,45669,1.88,15.7,1
+2023,Perplexity AI,Healthcare,Design,Europe,112188,1.5,46.8,1
+2025,Beautiful.ai,Software Development,Coding,Oceania,64693,3.87,42.0,5
+2025,Midjourney,Design,Data Analysis,South America,7850,1.94,61.0,4
+2022,Beautiful.ai,Healthcare,Design,South America,58093,4.2,63.0,4
+2025,Adobe Firefly,Education,Content Writing,Africa,93134,4.71,18.3,1
+2022,Tome AI,Media,Data Analysis,North America,63880,0.61,50.2,5
+2022,Murf AI,E-commerce,Presentations,Asia,117033,0.96,53.3,3
+2024,Runway ML,Design,Content Writing,Oceania,89632,1.25,17.3,2
+2022,Google Gemini,Education,Meeting Notes,Europe,93833,3.43,37.8,4
+2025,QuillBot,Media,Meeting Notes,North America,69370,1.99,58.0,2
+2025,Copy.ai,Media,Data Analysis,North America,118036,2.36,29.5,3
+2025,Gamma AI,E-commerce,Image Generation,North America,69757,2.47,25.2,2
+2023,QuillBot,E-commerce,Data Analysis,South America,82552,1.39,59.3,3
+2024,Codeium,Healthcare,Meeting Notes,South America,132293,2.1,39.0,3
+2023,Jasper AI,Software Development,Presentations,Oceania,89068,0.85,61.6,3
+2021,Stable Diffusion,Healthcare,Data Analysis,South America,105125,3.25,27.1,4
+2022,DALL-E,Education,Meeting Notes,North America,92154,3.21,38.4,2
+2023,ChatGPT,Marketing,Research,Africa,69541,4.5,53.0,2
+2022,Google Gemini,Education,Meeting Notes,South America,68219,1.47,50.4,2
+2022,Cursor AI,E-commerce,Image Generation,Africa,56504,0.46,40.5,2
+2025,Tome AI,Finance,Content Writing,Europe,96369,1.91,54.8,1
+2025,Runway ML,Media,Research,Europe,92009,0.82,56.2,1
+2025,Google Gemini,Design,Presentations,South America,73903,4.05,16.5,2
+2021,Phind,Marketing,Coding,Africa,52637,1.38,49.2,4
+2023,GrammarlyGO,Design,Design,Oceania,108088,3.56,38.9,2
+2022,Copy.ai,Finance,Image Generation,Oceania,122669,1.48,27.7,3
+2023,Codeium,Design,Design,South America,28638,2.47,62.0,5
+2025,Murf AI,Finance,Image Generation,Europe,126881,1.02,41.4,3
+2022,Gamma AI,Design,Meeting Notes,Oceania,155372,0.39,57.7,2
+2022,Pictory,Marketing,Research,South America,85876,4.68,40.2,5
+2023,Stable Diffusion,Design,Presentations,South America,96430,3.62,16.7,5
+2024,Wordtune,Media,Data Analysis,Europe,88716,3.01,42.6,5
+2022,Stable Diffusion,Design,Presentations,North America,129795,4.69,60.8,3
+2021,Cursor AI,Design,Content Writing,Africa,66663,2.42,14.5,5
+2024,Murf AI,Marketing,Content Writing,South America,83671,3.08,30.7,5
+2023,Tabnine,Software Development,Content Writing,Oceania,114825,0.56,27.1,3
+2024,DALL-E,Media,Design,Africa,51636,2.83,60.4,4
+2021,Copy.ai,Design,Design,Oceania,32354,1.93,27.8,2
+2022,Midjourney,Software Development,Data Analysis,South America,71926,1.36,33.8,1
+2023,Replit Ghostwriter,Design,Data Analysis,Africa,132070,0.96,18.1,4
+2024,Gamma AI,Education,Data Analysis,Europe,2906,4.6,28.7,2
+2022,Jasper AI,Healthcare,Meeting Notes,North America,80371,3.03,44.0,3
+2022,Tome AI,Media,Coding,Asia,73933,0.7,64.8,2
+2024,Tabnine,Media,Content Writing,North America,48804,2.66,41.9,3
+2023,Tome AI,Marketing,Meeting Notes,Africa,82417,1.29,59.2,5
+2023,Wordtune,Design,Coding,Europe,81276,1.26,18.9,4
+2024,Wordtune,Marketing,Presentations,Asia,81017,2.95,11.7,1
+2022,Runway ML,E-commerce,Research,Oceania,65697,3.94,33.8,1
+2021,Phind,Education,Meeting Notes,Asia,2470,2.18,39.9,5
+2025,Canva Magic Write,Education,Presentations,Asia,114745,1.03,18.4,4
+2022,Pictory,Education,Research,Africa,39774,3.33,31.3,1
+2024,GrammarlyGO,Healthcare,Coding,Asia,58665,0.42,16.9,4
+2024,Claude,Finance,Design,Asia,110070,0.43,20.7,5
+2022,Gamma AI,E-commerce,Design,Asia,120146,1.39,46.3,2
+2023,ChatGPT,Finance,Coding,North America,66264,3.37,21.6,1
+2024,Tome AI,Education,Image Generation,Asia,96681,0.77,21.9,3
+2025,Copy.ai,E-commerce,Coding,South America,103328,4.2,30.6,4
+2021,Wordtune,Media,Design,Europe,95327,3.44,19.7,1
+2024,Wordtune,Education,Meeting Notes,South America,99793,0.36,12.9,3
+2025,Replit Ghostwriter,Marketing,Meeting Notes,North America,72713,1.28,9.5,1
+2023,Midjourney,Finance,Presentations,Asia,91783,2.28,58.9,5
+2021,Adobe Firefly,Design,Meeting Notes,Europe,44466,4.14,27.5,5
+2022,Midjourney,Finance,Meeting Notes,Africa,60869,3.07,23.3,3
+2023,QuillBot,Finance,Data Analysis,North America,39746,3.23,31.3,5
+2023,QuillBot,Marketing,Research,Africa,19542,1.68,62.1,1
+2023,Wordtune,Marketing,Image Generation,Asia,132893,3.89,16.0,2
+2024,Jasper AI,E-commerce,Content Writing,Europe,80870,4.5,53.6,3
+2021,Writesonic,Marketing,Data Analysis,Oceania,115099,2.3,9.3,3
+2024,GitHub Copilot,Education,Research,South America,91234,3.28,22.7,1
+2022,Synthesia,Design,Meeting Notes,Europe,30694,0.95,55.6,3
+2021,Jasper AI,Education,Presentations,South America,82553,1.11,23.5,5
+2021,QuillBot,Finance,Meeting Notes,Asia,92427,0.39,60.1,2
+2025,Jasper AI,Education,Presentations,Africa,87875,1.59,39.6,1
+2025,Google Gemini,Software Development,Meeting Notes,Oceania,52648,3.36,55.3,4
+2025,ChatGPT,Finance,Meeting Notes,Oceania,89680,3.12,45.9,2
+2025,Adobe Firefly,Software Development,Image Generation,Africa,111480,1.12,60.1,5
+2021,GitHub Copilot,Finance,Image Generation,Asia,26773,2.74,10.7,1
+2025,Google Gemini,Finance,Meeting Notes,Europe,43612,1.08,50.1,2
+2023,Gamma AI,Education,Content Writing,South America,87603,1.45,30.2,4
+2022,Perplexity AI,Media,Coding,Africa,59338,1.66,28.3,5
+2021,Fireflies.ai,Media,Design,Africa,52723,2.96,35.1,2
+2025,DALL-E,E-commerce,Image Generation,South America,113609,3.42,61.4,1
+2025,Looka AI,Media,Design,Asia,56249,0.45,22.9,3
+2024,Cursor AI,Healthcare,Meeting Notes,Oceania,103009,3.1,10.9,1
+2023,Copy.ai,Marketing,Meeting Notes,North America,158802,1.87,51.9,5
+2025,Codeium,Media,Content Writing,Oceania,79118,0.8,12.3,1
+2023,Copy.ai,Design,Content Writing,North America,80950,3.54,32.8,1
+2022,Codeium,Media,Content Writing,Asia,135124,1.46,54.7,5
+2022,Wordtune,Design,Content Writing,South America,100972,1.58,41.6,2
+2021,Runway ML,Marketing,Research,Oceania,111176,2.0,13.2,5
+2022,Google Gemini,Finance,Meeting Notes,Africa,79766,1.17,38.9,2
+2022,Writesonic,E-commerce,Presentations,Africa,100620,4.4,49.7,4
+2024,QuillBot,E-commerce,Image Generation,Africa,98793,3.55,56.4,2
+2022,Pictory,E-commerce,Image Generation,Africa,114423,1.47,35.9,1
+2025,GrammarlyGO,Software Development,Meeting Notes,Asia,94888,1.15,40.4,3
+2023,Looka AI,Healthcare,Data Analysis,Oceania,88230,4.6,9.9,2
+2024,Phind,Software Development,Design,Oceania,49568,4.64,63.4,3
+2021,DALL-E,Design,Design,Asia,113594,4.74,35.0,5
+2023,Murf AI,E-commerce,Research,South America,82849,1.8,55.2,2
+2021,Claude,Healthcare,Image Generation,Oceania,82892,0.47,42.0,4
+2023,Adobe Firefly,Education,Design,Africa,68965,0.66,47.7,5
+2023,Writesonic,E-commerce,Image Generation,North America,72724,1.9,49.3,1
+2024,Codeium,E-commerce,Coding,Africa,76393,2.84,53.1,5
+2023,GitHub Copilot,Marketing,Meeting Notes,South America,68808,1.8,43.7,4
+2023,Pictory,E-commerce,Image Generation,North America,90011,1.39,9.4,5
+2022,Looka AI,Healthcare,Content Writing,Oceania,108688,4.39,9.2,5
+2024,Gamma AI,Software Development,Design,Europe,84468,4.71,53.5,5
+2022,Phind,Design,Presentations,North America,113964,4.99,28.0,2
+2021,Tabnine,Healthcare,Image Generation,Europe,66481,2.56,43.8,1
+2023,Claude,Finance,Meeting Notes,South America,124280,4.41,64.1,2
+2024,Wordtune,E-commerce,Meeting Notes,North America,68634,2.28,50.0,1
+2025,Tome AI,Healthcare,Data Analysis,Asia,125601,1.42,14.3,2
+2021,Looka AI,E-commerce,Research,South America,41666,1.69,21.3,3
+2022,Replit Ghostwriter,Design,Research,North America,54440,0.5,9.0,1
+2022,GrammarlyGO,Software Development,Design,Oceania,80959,2.11,46.7,2
+2025,DALL-E,Marketing,Image Generation,South America,89026,1.33,62.1,5
+2022,Descript,Media,Presentations,Oceania,111529,4.74,34.6,3
+2022,Gamma AI,Design,Data Analysis,Asia,75580,3.18,17.5,1
+2021,QuillBot,Education,Presentations,Africa,86993,3.16,37.2,1
+2023,Copy.ai,E-commerce,Design,Asia,96773,1.38,18.1,5
+2023,GrammarlyGO,Media,Meeting Notes,South America,63305,3.96,28.0,1
+2025,Beautiful.ai,Education,Presentations,Oceania,65335,0.57,63.2,5
+2023,Midjourney,Software Development,Meeting Notes,Europe,124615,3.57,16.8,1
+2022,Durable AI,Marketing,Meeting Notes,Oceania,64877,4.13,20.8,2
+2023,Wordtune,Education,Research,North America,88087,3.09,41.1,5
+2022,ChatGPT,Software Development,Data Analysis,Oceania,36527,0.73,58.0,1
+2022,Replit Ghostwriter,E-commerce,Image Generation,South America,63616,4.48,62.5,3
+2023,DeepL Write,Education,Image Generation,South America,70368,4.35,54.1,4
+2024,ChatGPT,Media,Meeting Notes,North America,101756,0.71,31.3,4
+2023,DeepL Write,Finance,Research,Oceania,142306,2.05,22.8,5
+2022,Runway ML,Healthcare,Coding,North America,81006,0.68,20.6,4
+2024,Durable AI,Education,Meeting Notes,Asia,135836,3.51,12.3,1
+2025,Otter.ai,Software Development,Design,South America,81507,2.56,41.8,3
+2021,DeepL Write,Design,Data Analysis,North America,117651,4.18,27.8,2
+2025,GitHub Copilot,Education,Meeting Notes,South America,102456,1.56,58.1,4
+2022,DeepL Write,Software Development,Research,North America,137401,4.05,45.5,2
+2023,Synthesia,E-commerce,Design,Europe,106614,3.58,46.8,2
+2024,Copy.ai,Media,Image Generation,Oceania,97218,3.21,50.9,2
+2021,Notion AI,E-commerce,Meeting Notes,North America,76986,1.88,50.4,3
+2023,ChatGPT,Marketing,Presentations,Asia,86401,1.06,54.6,3
+2024,Beautiful.ai,Marketing,Image Generation,Asia,82862,0.33,24.4,2
+2024,Notion AI,Education,Meeting Notes,Africa,120353,3.2,63.9,1
+2021,Tome AI,Marketing,Research,North America,41204,3.28,38.8,2
+2021,Tabnine,Media,Research,North America,104387,3.97,14.1,5
+2021,Fireflies.ai,Software Development,Content Writing,South America,89481,4.83,27.5,3
+2023,Beautiful.ai,Education,Coding,North America,129323,3.27,61.1,1
+2024,Synthesia,E-commerce,Image Generation,Africa,68606,1.71,48.4,4
+2021,Beautiful.ai,Marketing,Research,Asia,87822,0.62,41.2,1
+2023,Looka AI,Healthcare,Coding,Africa,117851,0.51,57.7,5
+2022,Replit Ghostwriter,Education,Data Analysis,Europe,36304,4.88,63.2,5
+2022,Jasper AI,Media,Meeting Notes,North America,65232,3.86,9.4,4
+2021,Midjourney,Healthcare,Presentations,North America,93316,0.4,26.4,4
+2023,GrammarlyGO,Healthcare,Content Writing,South America,128965,3.51,33.4,3
+2023,Descript,Education,Content Writing,South America,80027,1.59,64.8,5
+2023,Durable AI,Software Development,Content Writing,Oceania,38559,1.07,53.3,2
+2022,DALL-E,E-commerce,Content Writing,North America,16035,3.56,20.6,4
+2023,Wordtune,Finance,Design,South America,89314,3.38,23.6,3
+2021,Midjourney,Software Development,Content Writing,Europe,65077,4.77,16.6,1
+2024,Wordtune,Design,Design,North America,101506,2.27,44.4,5
+2021,Tabnine,Design,Research,Oceania,79024,2.17,23.6,5
+2021,DALL-E,E-commerce,Presentations,Europe,80632,4.5,21.1,2
+2023,Copy.ai,Education,Meeting Notes,Asia,89300,1.3,9.8,5
+2023,GitHub Copilot,Design,Data Analysis,North America,44453,4.36,35.0,1
+2024,Google Gemini,Healthcare,Image Generation,Africa,125312,4.85,18.6,4
+2025,Murf AI,Education,Presentations,Oceania,92281,3.92,56.2,5
+2024,Looka AI,Design,Meeting Notes,Europe,95702,3.88,43.7,1
+2023,Copy.ai,Media,Content Writing,Africa,87895,4.04,35.4,5
+2022,Adobe Firefly,Media,Research,Europe,103270,0.85,15.1,3
+2025,Perplexity AI,Marketing,Research,North America,61708,1.24,36.0,3
+2024,Jasper AI,Software Development,Meeting Notes,Oceania,136028,0.6,41.2,2
+2025,Synthesia,Software Development,Coding,Europe,107219,1.76,33.9,1
+2021,QuillBot,Finance,Presentations,Oceania,62421,0.35,12.1,2
+2025,Otter.ai,E-commerce,Image Generation,Europe,68430,3.12,24.6,1
+2025,GrammarlyGO,Design,Research,Europe,9283,3.57,57.0,5
+2022,Looka AI,Software Development,Image Generation,Europe,52990,1.44,64.2,5
+2023,GrammarlyGO,E-commerce,Research,Oceania,80568,0.97,36.4,4
+2025,DeepL Write,Healthcare,Meeting Notes,Asia,127101,2.93,8.6,1
+2023,Phind,Healthcare,Content Writing,Europe,108320,1.83,37.5,3
+2021,Fireflies.ai,Finance,Data Analysis,Oceania,74584,0.46,12.5,5
+2024,Gamma AI,Education,Data Analysis,Africa,61540,2.17,15.6,1
+2024,Pictory,Marketing,Content Writing,North America,135930,4.06,19.4,5
+2024,QuillBot,Healthcare,Design,Europe,101225,1.09,14.0,4
+2025,ChatGPT,E-commerce,Presentations,Asia,123980,0.45,61.4,3
+2024,Tome AI,Finance,Content Writing,South America,109739,0.54,38.9,2
+2023,Tome AI,Finance,Research,Asia,102946,3.66,53.7,3
+2023,Looka AI,Healthcare,Content Writing,South America,93804,1.9,54.4,1
+2024,Stable Diffusion,Healthcare,Data Analysis,Europe,121521,2.43,44.7,4
+2024,Perplexity AI,Media,Data Analysis,North America,87927,2.77,49.7,5
+2024,Stable Diffusion,E-commerce,Design,South America,62457,4.4,20.5,1
+2024,Perplexity AI,Design,Presentations,Oceania,67483,4.89,27.2,3
+2022,Copy.ai,Software Development,Meeting Notes,North America,97685,3.4,36.4,5
+2021,Runway ML,Education,Image Generation,South America,64788,2.91,49.0,1
+2022,DALL-E,Marketing,Meeting Notes,Asia,83140,1.24,46.8,3
+2024,Claude,E-commerce,Design,North America,85600,0.64,9.7,1
+2025,Looka AI,Software Development,Image Generation,Oceania,74278,4.38,49.4,3
+2022,Tabnine,Finance,Design,Europe,31942,3.79,32.3,4
+2021,Beautiful.ai,Software Development,Image Generation,Asia,45227,4.94,10.3,2
+2025,Tome AI,E-commerce,Coding,South America,38068,4.38,41.0,2
+2025,Beautiful.ai,Marketing,Presentations,Europe,132517,2.59,57.8,2
+2022,Stable Diffusion,Design,Research,Oceania,68233,4.53,32.0,3
+2025,Tabnine,Media,Meeting Notes,Africa,101569,4.59,20.0,1
+2021,DALL-E,Marketing,Design,South America,34708,3.23,44.0,3
+2022,Otter.ai,Marketing,Design,South America,63233,3.66,59.8,3
+2022,Fireflies.ai,E-commerce,Content Writing,Africa,93874,1.14,21.5,2
+2022,Canva Magic Write,Media,Meeting Notes,Europe,81233,1.46,57.6,3
+2024,Adobe Firefly,E-commerce,Coding,Oceania,117181,2.39,37.3,4
+2021,Cursor AI,Software Development,Image Generation,Asia,116462,1.07,30.3,2
+2024,Claude,E-commerce,Meeting Notes,South America,29808,4.86,22.7,3
+2024,Wordtune,Healthcare,Design,Africa,43159,3.94,15.5,5
+2022,Phind,Healthcare,Research,North America,116824,4.86,33.9,2
+2021,Durable AI,Media,Design,Asia,84304,1.88,55.2,4
+2021,ChatGPT,Finance,Design,North America,43510,2.33,22.2,3
+2022,Pictory,Healthcare,Meeting Notes,North America,127022,1.09,17.6,2
+2022,GrammarlyGO,Design,Presentations,South America,107506,0.47,50.0,2
+2024,Tome AI,Healthcare,Presentations,North America,72350,4.27,53.9,2
+2023,Replit Ghostwriter,Software Development,Image Generation,South America,144302,3.05,57.5,5
+2021,Wordtune,Healthcare,Meeting Notes,Europe,74228,1.57,11.3,1
+2024,Stable Diffusion,Finance,Research,Asia,76109,2.8,61.4,2
+2025,DeepL Write,Education,Research,Africa,103979,1.79,36.9,3
+2024,Writesonic,Healthcare,Image Generation,Africa,79578,0.5,16.5,4
+2022,Copy.ai,Software Development,Image Generation,Europe,109489,2.44,37.4,4
+2023,ChatGPT,Media,Meeting Notes,North America,92394,2.6,46.0,4
+2021,GrammarlyGO,Software Development,Design,Africa,115245,1.25,46.4,5
+2021,Fireflies.ai,Software Development,Coding,South America,50802,4.86,13.4,2
+2023,Stable Diffusion,Design,Content Writing,Asia,63286,4.38,18.1,1
+2022,Replit Ghostwriter,Marketing,Coding,Europe,139420,3.56,55.8,2
+2024,Murf AI,Healthcare,Data Analysis,Europe,86512,2.64,43.2,2
+2025,GitHub Copilot,Education,Content Writing,Oceania,92948,4.38,40.5,1
+2021,Beautiful.ai,Marketing,Image Generation,North America,115165,1.31,45.6,3
+2023,Notion AI,Finance,Design,Europe,117610,2.15,45.1,3
+2023,Fireflies.ai,Finance,Research,Asia,91079,5.0,10.7,5
+2022,Tabnine,Software Development,Design,Africa,59371,4.89,31.2,3
+2024,Pictory,Marketing,Coding,South America,91640,2.96,50.1,2
+2022,Wordtune,Finance,Coding,North America,94657,4.43,31.0,3
+2021,Replit Ghostwriter,Media,Research,Europe,117684,4.1,51.5,4
+2022,Murf AI,Healthcare,Design,Europe,45171,4.05,32.8,1
+2025,Gamma AI,Healthcare,Design,North America,77498,2.86,8.3,5
+2024,Midjourney,Finance,Meeting Notes,Africa,85767,1.83,28.9,5
+2024,GitHub Copilot,Media,Meeting Notes,Asia,129835,2.13,33.6,3
+2025,Phind,Education,Meeting Notes,North America,56591,1.42,29.3,5
+2021,Codeium,Design,Research,Oceania,131260,3.21,34.4,1
+2024,Otter.ai,Design,Image Generation,Oceania,112294,2.08,57.2,2
+2022,Descript,Education,Meeting Notes,Africa,7017,0.42,27.5,5
+2022,DALL-E,Education,Meeting Notes,Europe,150728,2.09,30.7,5
+2024,Canva Magic Write,Education,Data Analysis,Europe,112677,3.16,51.6,3
+2024,GrammarlyGO,Design,Presentations,Europe,155192,4.12,48.9,3
+2024,Claude,Education,Content Writing,South America,104767,1.44,60.8,5
+2021,Cursor AI,Education,Meeting Notes,Africa,90435,0.58,61.3,4
+2023,GrammarlyGO,Education,Research,North America,59381,2.58,22.6,5
+2023,Descript,Media,Coding,Asia,73579,1.64,25.5,1
+2021,QuillBot,E-commerce,Image Generation,North America,87396,1.76,42.8,3
+2024,ChatGPT,Marketing,Design,Africa,123760,3.67,23.5,5
+2022,ChatGPT,Healthcare,Meeting Notes,Asia,52525,1.15,46.8,2
+2024,Canva Magic Write,Media,Presentations,Europe,75261,1.15,37.9,4
+2021,GrammarlyGO,Design,Content Writing,Africa,63958,2.97,22.6,5
+2021,Claude,Healthcare,Presentations,Oceania,91593,4.83,35.6,5
+2022,Notion AI,Education,Image Generation,Asia,88717,0.5,44.1,5
+2023,Murf AI,Marketing,Data Analysis,Asia,122924,4.77,42.3,4
+2023,Replit Ghostwriter,Education,Data Analysis,Oceania,83465,1.37,20.1,4
+2022,ChatGPT,Finance,Meeting Notes,South America,83217,3.17,31.4,5
+2024,QuillBot,Healthcare,Image Generation,Oceania,44684,3.97,23.7,3
+2025,Jasper AI,Healthcare,Coding,Oceania,61212,4.17,32.2,5
+2025,Durable AI,E-commerce,Meeting Notes,Asia,61795,3.23,33.8,5
+2021,GrammarlyGO,Marketing,Meeting Notes,Europe,90369,3.06,17.6,5
+2022,QuillBot,E-commerce,Image Generation,North America,101013,1.32,13.5,5
+2024,DALL-E,Media,Meeting Notes,Africa,94413,0.41,44.6,3
+2022,Tabnine,Healthcare,Meeting Notes,North America,110916,1.39,30.3,1
+2022,Adobe Firefly,Healthcare,Image Generation,South America,148315,3.09,36.3,3
+2022,Google Gemini,Design,Data Analysis,Oceania,57889,2.31,48.9,3
+2024,Perplexity AI,E-commerce,Data Analysis,Europe,131173,3.55,64.5,1
+2021,GitHub Copilot,E-commerce,Content Writing,Oceania,99069,1.59,12.5,4
+2022,Midjourney,E-commerce,Content Writing,Oceania,130851,0.7,59.0,2
+2021,Midjourney,Marketing,Image Generation,Europe,64549,1.37,28.2,1
+2024,Looka AI,Marketing,Data Analysis,North America,51557,0.63,37.6,1
+2024,Midjourney,Marketing,Research,Asia,89013,4.44,45.1,3
+2022,Perplexity AI,Marketing,Coding,North America,35323,2.8,26.5,5
+2021,Claude,Software Development,Data Analysis,Asia,118830,4.97,45.7,4
+2023,Writesonic,Marketing,Research,Asia,45710,2.92,49.6,4
+2024,Durable AI,Marketing,Research,Oceania,60849,2.94,62.6,2
+2023,Tabnine,Healthcare,Coding,Europe,80326,1.12,47.3,3
+2021,Wordtune,Healthcare,Data Analysis,South America,87080,0.75,33.7,2
+2025,Pictory,Finance,Data Analysis,South America,39588,3.85,27.8,4
+2021,Looka AI,Media,Meeting Notes,North America,114739,4.66,21.4,5
+2025,Beautiful.ai,Marketing,Research,Oceania,100274,2.18,16.7,4
+2024,Runway ML,Marketing,Content Writing,Europe,118392,2.75,43.5,2
+2021,DALL-E,Healthcare,Coding,North America,86251,0.72,51.1,5
+2021,DeepL Write,Media,Image Generation,Asia,86006,3.98,48.4,1
+2025,Murf AI,Education,Presentations,Europe,77425,0.47,25.3,2
+2023,Murf AI,Software Development,Research,North America,58420,0.71,61.4,2
+2022,Phind,Finance,Research,Africa,42063,2.9,25.4,5
+2024,Descript,Education,Research,North America,48899,3.12,37.4,4
+2022,Replit Ghostwriter,Media,Content Writing,Asia,17413,4.62,36.3,5
+2021,ChatGPT,Healthcare,Research,Oceania,84454,2.09,58.0,1
+2022,Runway ML,Software Development,Coding,Oceania,79033,4.38,53.9,2
+2025,Phind,Finance,Research,Oceania,61957,0.68,31.0,5
+2021,Tabnine,Marketing,Content Writing,Asia,111761,1.12,47.6,3
+2023,Perplexity AI,Healthcare,Coding,South America,82845,3.31,54.9,4
+2023,Durable AI,Education,Design,South America,81726,0.92,57.1,2
+2025,Cursor AI,Media,Presentations,Asia,81249,3.15,51.6,2
+2021,Wordtune,Finance,Coding,Asia,106532,1.12,36.6,4
+2023,Murf AI,Media,Design,Europe,50046,2.03,11.9,4
+2025,Adobe Firefly,Education,Coding,Oceania,72843,0.42,15.7,2
+2023,Gamma AI,Healthcare,Presentations,Oceania,83699,4.84,32.7,2
+2021,Runway ML,Healthcare,Presentations,Oceania,97890,1.77,36.9,2
+2024,QuillBot,Education,Data Analysis,North America,53819,3.31,20.3,3
+2022,Claude,Finance,Design,North America,77677,3.21,45.1,2
+2023,Copy.ai,Media,Image Generation,South America,75596,0.57,64.7,2
+2024,Cursor AI,Design,Design,Europe,126721,0.57,47.6,5
+2025,Writesonic,Marketing,Data Analysis,Asia,63597,3.55,11.6,1
+2024,Tabnine,Healthcare,Meeting Notes,Africa,72925,2.69,64.8,5
+2022,Copy.ai,Finance,Design,Oceania,95108,1.74,43.6,4
+2023,Perplexity AI,Software Development,Content Writing,Europe,117719,2.78,32.3,5
+2025,Cursor AI,Education,Meeting Notes,Africa,40993,2.03,31.6,1
+2022,DALL-E,Education,Research,Africa,75257,4.19,49.8,1
+2025,Claude,Healthcare,Image Generation,Oceania,64704,0.39,22.8,2
+2022,Synthesia,Healthcare,Research,Europe,4268,3.87,15.8,5
+2024,Perplexity AI,Media,Meeting Notes,Africa,37632,0.36,21.7,3
+2022,Tabnine,E-commerce,Image Generation,South America,87500,4.89,53.7,3
+2021,Notion AI,Design,Data Analysis,Africa,81540,0.82,39.2,1
+2024,Otter.ai,Finance,Design,Asia,99378,2.44,56.1,2
+2025,Google Gemini,Marketing,Research,Asia,81180,1.01,26.5,2
+2021,Copy.ai,Design,Image Generation,Europe,54001,3.77,35.1,5
+2023,Durable AI,Marketing,Design,Africa,40842,2.46,52.7,2
+2023,Fireflies.ai,Media,Research,South America,33593,4.49,62.5,1
+2025,Stable Diffusion,Education,Design,Europe,61927,3.53,32.9,1
+2025,Jasper AI,Software Development,Design,South America,113197,1.5,55.9,1
+2022,Looka AI,Software Development,Content Writing,Asia,146719,3.4,59.0,5
+2024,Phind,Software Development,Meeting Notes,North America,63828,3.29,43.0,1
+2022,Google Gemini,Design,Coding,Asia,82960,1.01,50.0,5
+2024,Stable Diffusion,Marketing,Presentations,Europe,59397,2.71,46.8,5
+2025,Phind,E-commerce,Image Generation,Europe,71040,0.63,8.7,2
+2021,GrammarlyGO,Education,Image Generation,Europe,87540,4.8,50.0,2
+2023,GitHub Copilot,Healthcare,Data Analysis,Africa,41586,1.94,52.2,2
+2022,Replit Ghostwriter,Design,Design,South America,52851,3.41,18.6,3
+2023,Runway ML,Marketing,Coding,South America,117571,1.55,9.2,3
+2023,Phind,Finance,Image Generation,North America,103568,0.69,63.2,5
+2022,Copy.ai,Marketing,Presentations,Africa,111881,3.24,29.8,3
+2022,Synthesia,Education,Presentations,Asia,59296,1.27,14.9,1
+2024,DALL-E,Media,Design,Europe,121845,3.33,38.2,4
+2023,DALL-E,Design,Data Analysis,South America,98686,0.5,63.2,3
+2021,DALL-E,E-commerce,Coding,South America,62694,4.91,42.3,1
+2021,Cursor AI,Media,Image Generation,Europe,109835,3.04,50.6,1
+2021,Phind,Media,Data Analysis,Africa,98148,0.9,27.3,2
+2024,DALL-E,Finance,Presentations,Oceania,114175,4.66,20.8,3
+2024,Stable Diffusion,Software Development,Data Analysis,Asia,50655,2.37,42.9,4
+2021,Tome AI,Education,Design,Oceania,23009,4.73,21.7,4
+2023,Beautiful.ai,Media,Data Analysis,South America,75362,4.47,44.8,5
+2025,Fireflies.ai,E-commerce,Presentations,Africa,73695,1.64,54.5,1
+2023,Pictory,Marketing,Design,North America,76986,3.85,34.3,4
+2022,Looka AI,Marketing,Coding,South America,90477,4.26,49.5,2
+2022,Pictory,E-commerce,Meeting Notes,North America,101886,1.13,39.1,3
+2025,Otter.ai,Education,Content Writing,Oceania,117204,4.93,61.4,4
+2023,Durable AI,E-commerce,Meeting Notes,Africa,93990,4.14,20.2,5
+2023,Writesonic,Education,Image Generation,Asia,62459,2.68,55.9,3
+2022,Synthesia,Education,Content Writing,Europe,91264,3.07,37.0,3
+2023,GrammarlyGO,Finance,Meeting Notes,South America,133066,1.7,40.2,2
+2025,DALL-E,Software Development,Research,Asia,104600,3.29,51.4,4
+2021,Copy.ai,Media,Content Writing,North America,93434,1.05,34.3,3
+2023,Replit Ghostwriter,Media,Design,North America,75729,4.06,19.6,5
+2022,GrammarlyGO,Education,Data Analysis,South America,56484,2.91,49.8,4
+2025,Runway ML,Healthcare,Coding,Africa,46123,1.97,52.7,1
+2023,Copy.ai,Software Development,Meeting Notes,Asia,95338,2.9,8.3,4
+2025,Canva Magic Write,Media,Content Writing,North America,58453,4.8,29.0,2
+2025,Phind,Education,Coding,Europe,101448,1.84,16.5,5
+2024,Gamma AI,E-commerce,Content Writing,South America,103671,4.98,29.0,5
+2025,ChatGPT,Healthcare,Coding,Asia,70815,2.41,49.2,1
+2024,Cursor AI,Finance,Presentations,Africa,88740,2.14,31.5,3
+2022,Google Gemini,Media,Data Analysis,Asia,109977,3.57,8.2,3
+2025,Jasper AI,Finance,Data Analysis,Asia,36230,4.03,13.3,5
+2025,Synthesia,E-commerce,Presentations,South America,119877,3.06,35.4,4
+2022,Canva Magic Write,Education,Image Generation,Europe,65072,3.03,40.0,5
+2021,Google Gemini,Software Development,Presentations,Oceania,87536,2.94,42.4,5
+2021,Otter.ai,Education,Coding,Africa,112721,1.57,55.0,4
+2022,Adobe Firefly,Media,Presentations,South America,99775,2.64,12.4,5
+2021,Copy.ai,Design,Design,Asia,76894,3.99,48.3,4
+2021,Jasper AI,E-commerce,Coding,Europe,68403,4.01,37.5,4
+2023,GrammarlyGO,Marketing,Meeting Notes,Europe,47749,1.84,32.7,5
+2022,Midjourney,Finance,Research,Oceania,76190,0.72,20.6,5
+2025,GitHub Copilot,Software Development,Research,North America,127403,4.99,61.2,2
+2022,Pictory,Finance,Coding,Europe,100924,3.32,32.0,1
+2021,Synthesia,Healthcare,Coding,North America,118631,0.86,31.4,4
+2024,Runway ML,E-commerce,Coding,South America,99462,4.25,29.9,1
+2021,Perplexity AI,E-commerce,Design,Asia,138537,1.17,28.6,1
+2023,Stable Diffusion,Healthcare,Content Writing,Africa,128297,1.87,9.5,4
+2021,Runway ML,Education,Data Analysis,Africa,86226,1.7,61.6,4
+2021,Phind,Finance,Coding,North America,28946,1.52,32.5,5
+2023,Copy.ai,Media,Coding,Oceania,97408,2.45,35.5,1
+2023,Copy.ai,Education,Design,Europe,66018,0.93,12.6,4
+2023,Fireflies.ai,Design,Research,Africa,81174,2.35,49.6,4
+2022,Writesonic,Software Development,Presentations,Asia,135167,3.9,17.1,2
+2025,Perplexity AI,Finance,Coding,Africa,52048,3.83,45.4,4
+2023,GrammarlyGO,Healthcare,Design,South America,91053,4.8,11.9,4
+2023,Runway ML,Finance,Content Writing,South America,78995,1.53,22.1,5
+2025,Beautiful.ai,Marketing,Design,Europe,75889,4.56,22.2,3
+2022,Runway ML,Healthcare,Design,Asia,109407,2.41,52.3,1
+2021,Adobe Firefly,E-commerce,Meeting Notes,Africa,57904,0.61,35.8,5
+2025,Claude,Healthcare,Image Generation,Asia,9272,1.93,59.3,3
+2024,Perplexity AI,Education,Presentations,Europe,108521,0.4,45.8,1
+2022,Murf AI,Media,Design,Oceania,84009,4.7,11.0,5
+2024,Gamma AI,Design,Data Analysis,Asia,97478,2.27,22.8,5
+2023,Stable Diffusion,Finance,Research,Asia,105827,1.23,40.2,4
+2022,Adobe Firefly,Software Development,Image Generation,Oceania,44371,2.48,63.4,5
+2024,Codeium,Media,Coding,Asia,33546,0.84,16.6,5
+2025,DALL-E,Marketing,Image Generation,Asia,116942,1.36,22.3,3
+2024,Codeium,Finance,Meeting Notes,Oceania,88017,2.76,14.5,5
+2021,Tabnine,Education,Content Writing,Africa,116459,4.34,49.2,1
+2022,Perplexity AI,E-commerce,Image Generation,Africa,87293,2.85,12.7,1
+2021,GrammarlyGO,Marketing,Presentations,Asia,70989,2.45,35.6,5
+2024,Google Gemini,Software Development,Design,Europe,95096,2.47,31.5,2
+2023,Google Gemini,Marketing,Design,Oceania,109118,3.36,39.1,4
+2022,Cursor AI,Marketing,Data Analysis,Asia,82623,4.09,34.2,4
+2021,Canva Magic Write,Healthcare,Meeting Notes,Oceania,60159,0.54,52.8,2
+2024,Replit Ghostwriter,Media,Image Generation,Africa,62621,1.07,26.8,4
+2022,Codeium,Finance,Coding,North America,58024,3.86,37.6,5
+2025,Writesonic,Healthcare,Design,South America,91692,4.43,57.6,2
+2023,Beautiful.ai,Finance,Design,Africa,74429,1.42,33.7,2
+2022,Jasper AI,Design,Presentations,Asia,108493,2.83,36.4,2
+2025,Phind,Healthcare,Coding,South America,79664,0.8,45.4,3
+2022,Canva Magic Write,Software Development,Content Writing,Asia,69209,3.95,63.0,2
+2023,Stable Diffusion,Media,Meeting Notes,Asia,116453,1.26,37.8,1
+2025,Copy.ai,Healthcare,Meeting Notes,Asia,109576,3.01,44.2,5
+2024,Jasper AI,Software Development,Meeting Notes,Europe,61955,4.05,30.6,2
+2025,Descript,Software Development,Data Analysis,Europe,84035,1.04,47.7,5
+2025,Google Gemini,Software Development,Image Generation,Oceania,107583,4.03,26.1,4
+2022,Gamma AI,Finance,Image Generation,Oceania,71956,1.17,59.0,2
+2021,Synthesia,Media,Content Writing,Asia,69890,3.38,16.7,2
+2021,GitHub Copilot,Healthcare,Research,South America,143875,0.69,58.3,5
+2023,GrammarlyGO,Healthcare,Presentations,South America,49974,4.08,36.8,3
+2024,Fireflies.ai,Healthcare,Data Analysis,Asia,79610,4.93,46.1,4
+2023,Otter.ai,E-commerce,Coding,North America,95571,3.28,17.5,5
+2024,Copy.ai,Marketing,Data Analysis,Asia,76385,1.06,8.7,4
+2021,Codeium,Education,Coding,Asia,111571,2.93,38.1,1
+2021,Adobe Firefly,Design,Research,Asia,99388,0.67,49.7,1
+2021,DeepL Write,Healthcare,Coding,Asia,91773,1.18,56.9,3
+2024,Looka AI,Marketing,Design,Asia,87053,3.64,25.9,2
+2021,Adobe Firefly,Finance,Presentations,Africa,121527,2.51,54.8,1
+2021,Adobe Firefly,E-commerce,Presentations,Oceania,18344,2.62,55.2,5
+2024,Gamma AI,Media,Coding,Asia,63765,1.88,17.9,2
+2024,Looka AI,Marketing,Meeting Notes,South America,107218,0.77,21.7,1
+2022,Descript,Healthcare,Image Generation,Oceania,98402,0.97,27.8,5
+2025,Perplexity AI,E-commerce,Meeting Notes,Asia,130461,3.36,43.4,2
+2025,Canva Magic Write,Software Development,Meeting Notes,Asia,72330,1.96,56.0,3
+2025,ChatGPT,Healthcare,Coding,South America,94111,3.28,15.2,2
+2022,Notion AI,E-commerce,Design,Oceania,81274,3.48,26.5,3
+2023,GrammarlyGO,Software Development,Presentations,Europe,68061,1.12,56.8,1
+2022,Google Gemini,Software Development,Research,Africa,88034,1.37,55.7,5
+2022,Gamma AI,Media,Presentations,Oceania,108138,3.56,37.2,1
+2022,Canva Magic Write,Healthcare,Meeting Notes,Europe,41620,1.73,20.1,1
+2024,DeepL Write,Software Development,Data Analysis,Oceania,97417,4.39,51.7,1
+2024,Tabnine,Design,Meeting Notes,Africa,87387,4.01,45.9,3
+2024,Murf AI,Finance,Data Analysis,Asia,94294,3.45,39.9,2
+2024,GrammarlyGO,Software Development,Data Analysis,Asia,74762,0.82,33.5,5
+2022,Stable Diffusion,Healthcare,Meeting Notes,Oceania,115212,2.87,29.7,5
+2022,Copy.ai,Design,Presentations,Asia,78388,4.89,14.3,1
+2022,Fireflies.ai,Media,Meeting Notes,Europe,65940,3.78,60.3,5
+2022,Canva Magic Write,Education,Presentations,South America,79284,1.62,56.9,2
+2023,Writesonic,Media,Presentations,Europe,97393,3.84,53.9,5
+2024,ChatGPT,Education,Research,South America,74213,0.38,62.9,5
+2021,Descript,Marketing,Design,Oceania,53936,4.2,24.0,5
+2024,Replit Ghostwriter,Marketing,Data Analysis,South America,114579,4.4,14.4,2
+2023,ChatGPT,Marketing,Content Writing,North America,93018,0.75,21.8,5
+2024,ChatGPT,Design,Research,Africa,137145,0.36,34.7,3
+2023,Pictory,Software Development,Content Writing,Europe,105998,1.7,25.1,5
+2022,Looka AI,Media,Presentations,Europe,33510,3.79,10.7,2
+2023,Looka AI,Healthcare,Content Writing,North America,110509,4.49,18.6,1
+2021,Tome AI,Media,Image Generation,Oceania,133318,0.67,21.7,4
+2023,Notion AI,Marketing,Image Generation,Europe,84101,0.6,55.4,3
+2022,Descript,Design,Image Generation,South America,116856,3.12,14.6,3
+2021,Otter.ai,Education,Image Generation,Oceania,111255,4.43,40.6,1
+2025,Claude,Education,Image Generation,Asia,97032,2.73,32.5,2
+2022,Jasper AI,Media,Coding,North America,62377,3.94,42.3,3
+2021,Perplexity AI,Software Development,Research,Africa,27081,4.49,33.3,1
+2025,Notion AI,Software Development,Meeting Notes,Asia,130368,3.08,48.1,2
+2024,Writesonic,Marketing,Presentations,South America,121447,1.42,37.2,1
+2025,Phind,E-commerce,Coding,South America,74618,2.59,45.2,3
+2025,Jasper AI,Software Development,Design,North America,56702,4.77,42.2,1
+2023,Google Gemini,Software Development,Research,Oceania,83308,3.28,12.0,4
+2022,GitHub Copilot,Design,Image Generation,Oceania,132851,1.5,28.6,2
+2024,Tome AI,Media,Meeting Notes,Oceania,63646,0.96,23.8,1
+2021,ChatGPT,Marketing,Content Writing,Africa,80888,4.87,26.9,3
+2025,Google Gemini,Education,Meeting Notes,South America,39810,3.17,24.0,2
+2024,Google Gemini,Marketing,Coding,South America,79506,1.27,37.4,1
+2023,GitHub Copilot,Healthcare,Data Analysis,Africa,72723,4.07,40.6,1
+2025,DALL-E,E-commerce,Meeting Notes,North America,59435,2.71,24.7,5
+2025,Phind,Marketing,Data Analysis,Oceania,77196,0.71,43.2,1
+2022,GrammarlyGO,Education,Data Analysis,South America,102140,0.84,27.7,4
+2025,Notion AI,Software Development,Coding,Oceania,114280,2.62,48.0,2
+2022,Looka AI,Marketing,Presentations,Oceania,82639,4.97,15.5,4
+2024,Cursor AI,Marketing,Research,Africa,60747,2.28,31.4,4
+2024,Stable Diffusion,Software Development,Image Generation,Europe,36588,4.57,48.7,2
+2022,Synthesia,Education,Design,Europe,34564,4.17,62.4,2
+2025,ChatGPT,Media,Research,Europe,108851,4.16,8.1,2
+2021,Replit Ghostwriter,Healthcare,Image Generation,Europe,67508,1.51,11.4,4
+2023,Runway ML,Marketing,Meeting Notes,Africa,86403,3.14,47.1,3
+2023,Pictory,Software Development,Research,Africa,73944,2.44,29.0,2
+2022,Replit Ghostwriter,Marketing,Meeting Notes,South America,55264,0.87,31.9,4
+2025,ChatGPT,Marketing,Meeting Notes,Europe,78062,0.68,28.2,1
+2025,Runway ML,Media,Image Generation,Africa,84305,4.73,46.1,1
+2022,Canva Magic Write,Design,Research,North America,49288,3.09,8.6,2
+2021,Beautiful.ai,Finance,Design,South America,124327,3.29,60.1,2
+2021,Murf AI,Design,Presentations,Oceania,110594,3.7,14.9,2
+2021,Durable AI,Education,Design,Europe,90613,4.54,11.8,3
+2023,Synthesia,Software Development,Content Writing,Europe,47688,0.36,32.1,4
+2022,Tabnine,Marketing,Presentations,Africa,85256,1.69,35.7,1
+2025,Codeium,Healthcare,Presentations,Asia,65538,0.88,39.8,3
+2023,ChatGPT,E-commerce,Research,North America,84785,1.91,49.6,2
+2023,Pictory,Marketing,Content Writing,North America,111083,3.55,32.5,4
+2025,Writesonic,Software Development,Image Generation,Europe,94815,3.46,23.7,4
+2021,Notion AI,Marketing,Design,Asia,112017,2.4,53.5,5
+2022,Durable AI,Design,Image Generation,Asia,61881,4.17,56.9,4
+2021,DeepL Write,Software Development,Research,Oceania,77970,1.8,41.2,1
+2021,Phind,Finance,Data Analysis,North America,106324,2.04,42.3,2
+2021,GitHub Copilot,Software Development,Content Writing,South America,112976,2.06,17.5,1
+2022,Writesonic,E-commerce,Presentations,North America,115801,2.32,16.1,1
+2025,Wordtune,Media,Image Generation,Oceania,72758,1.03,9.5,4
+2021,Looka AI,Design,Research,North America,105389,3.34,44.3,1
+2024,DeepL Write,E-commerce,Coding,South America,65134,2.23,25.7,4
+2021,Perplexity AI,Healthcare,Meeting Notes,Europe,75723,3.48,42.5,5
+2022,Pictory,Marketing,Research,Asia,44969,4.94,33.9,5
+2024,Copy.ai,Finance,Design,South America,64226,3.53,16.0,2
+2025,DALL-E,Marketing,Content Writing,Africa,67784,2.68,62.9,1
+2024,DeepL Write,Education,Content Writing,Asia,81566,2.11,10.2,3
+2022,Tabnine,Design,Meeting Notes,South America,79349,1.05,9.3,1
+2021,Codeium,Healthcare,Presentations,Oceania,70899,3.85,34.1,5
+2021,Pictory,E-commerce,Image Generation,Europe,98827,0.85,62.5,3
+2021,Replit Ghostwriter,Healthcare,Content Writing,Africa,73135,1.78,58.6,3
+2022,Gamma AI,Design,Data Analysis,Europe,117193,4.92,24.4,2
+2024,Phind,Design,Image Generation,Oceania,93089,4.82,30.2,1
+2023,Tabnine,Finance,Presentations,Africa,34873,2.84,16.8,3
+2023,Runway ML,Software Development,Data Analysis,Europe,48196,2.9,38.9,2
+2024,Phind,Design,Content Writing,North America,101141,2.37,25.2,3
+2024,Runway ML,Software Development,Meeting Notes,Europe,97025,1.52,19.1,5
+2021,Fireflies.ai,Finance,Image Generation,North America,76955,1.57,63.1,2
+2022,Canva Magic Write,Finance,Research,South America,67837,2.92,27.8,4
+2025,Claude,Media,Research,Asia,49817,2.39,43.7,2
+2024,Claude,Media,Data Analysis,Europe,89177,2.6,30.9,5
+2022,Claude,Education,Research,Africa,115028,3.22,19.5,2
+2025,GitHub Copilot,Healthcare,Coding,Europe,140750,2.16,10.2,1
+2025,Codeium,Education,Image Generation,Asia,161330,1.37,62.9,3
+2025,Perplexity AI,Finance,Coding,Africa,36910,4.57,49.2,1
+2023,Wordtune,Finance,Design,Oceania,114573,0.91,53.1,2
+2022,Otter.ai,Education,Coding,North America,84939,0.89,53.3,2
+2022,Wordtune,Healthcare,Image Generation,Africa,100647,4.74,16.5,5
+2021,Adobe Firefly,Healthcare,Coding,South America,70911,2.47,63.9,2
+2021,GrammarlyGO,Design,Data Analysis,Asia,115781,3.07,29.4,4
+2025,Midjourney,Marketing,Research,Asia,80458,1.64,19.6,1
+2025,Cursor AI,Healthcare,Image Generation,South America,64130,2.7,36.1,2
+2021,Stable Diffusion,Education,Coding,Asia,123233,3.01,57.3,4
+2023,Synthesia,Education,Coding,North America,80353,4.19,51.6,3
+2023,QuillBot,E-commerce,Image Generation,Europe,90566,3.0,62.5,3
+2025,Murf AI,Marketing,Content Writing,Africa,76079,4.31,33.0,1
+2025,Durable AI,Education,Meeting Notes,Europe,77461,4.28,58.9,1
+2025,GitHub Copilot,Software Development,Content Writing,Oceania,99806,3.24,60.8,5
+2021,Phind,Design,Image Generation,Europe,10211,0.39,35.2,3
+2021,ChatGPT,Marketing,Meeting Notes,Africa,115723,3.55,15.7,1
+2025,QuillBot,Media,Meeting Notes,Oceania,110425,1.71,28.4,1
+2022,Canva Magic Write,Media,Coding,Asia,63198,1.29,62.6,2
+2022,Fireflies.ai,Education,Presentations,South America,107871,0.34,64.9,1
+2025,Codeium,Media,Image Generation,Africa,110593,1.68,8.8,2
+2025,DeepL Write,E-commerce,Design,South America,97392,3.77,55.5,1
+2025,QuillBot,Design,Data Analysis,North America,62755,3.84,51.8,3
+2022,Gamma AI,Design,Data Analysis,South America,94957,3.4,51.7,5
+2025,Durable AI,E-commerce,Data Analysis,Asia,92543,0.72,35.8,4
+2022,DALL-E,E-commerce,Meeting Notes,North America,114104,0.66,31.2,5
+2024,Beautiful.ai,Education,Meeting Notes,South America,61744,1.94,14.3,3
+2021,Stable Diffusion,Marketing,Image Generation,North America,77664,4.1,62.0,5
+2022,Pictory,Marketing,Coding,Asia,25191,0.66,36.5,5
+2021,Otter.ai,Marketing,Design,Europe,88398,4.03,48.3,1
+2021,Beautiful.ai,Finance,Design,Africa,33773,1.39,24.0,1
+2025,Pictory,Healthcare,Coding,Asia,59118,4.08,61.0,1
+2024,DALL-E,E-commerce,Content Writing,Africa,106884,1.81,35.2,1
+2021,QuillBot,Finance,Data Analysis,Oceania,76185,1.36,44.5,5
+2024,Copy.ai,Media,Content Writing,North America,83797,1.98,44.9,2
+2025,Midjourney,Healthcare,Presentations,Oceania,90321,0.88,58.7,4
+2021,Synthesia,Design,Presentations,Africa,12585,3.05,43.6,1
+2022,Midjourney,Software Development,Coding,Asia,87515,0.64,46.9,1
+2021,DeepL Write,Media,Presentations,Oceania,106213,4.17,53.8,2
+2022,Claude,E-commerce,Data Analysis,South America,52793,2.9,37.6,2
+2021,Murf AI,Design,Design,North America,93772,1.58,36.3,3
+2024,Copy.ai,E-commerce,Design,Europe,66731,1.64,15.6,5
+2024,GrammarlyGO,Media,Image Generation,Asia,66277,3.82,26.1,2
+2021,Codeium,E-commerce,Meeting Notes,South America,86570,0.3,37.1,2
+2024,Copy.ai,E-commerce,Meeting Notes,South America,72163,4.24,8.2,5
+2025,Fireflies.ai,Software Development,Content Writing,North America,86655,1.46,50.2,4
+2023,Claude,E-commerce,Meeting Notes,Europe,62256,1.99,23.4,3
+2023,Writesonic,Design,Content Writing,North America,72888,4.26,25.9,2
+2023,DeepL Write,Software Development,Meeting Notes,Asia,89876,2.34,59.9,3
+2025,GrammarlyGO,Finance,Coding,North America,87807,2.07,63.0,2
+2024,Gamma AI,Media,Coding,Oceania,89960,2.62,30.1,3
+2023,Canva Magic Write,Media,Meeting Notes,South America,64517,3.27,48.1,3
+2024,Tabnine,Finance,Data Analysis,Europe,110961,4.84,51.4,2
+2023,Murf AI,Design,Presentations,South America,119083,4.77,48.0,1
+2022,Copy.ai,Marketing,Presentations,Oceania,63470,3.97,44.7,4
+2023,Murf AI,Design,Research,South America,72517,0.53,28.5,1
+2021,Canva Magic Write,Design,Data Analysis,Africa,82015,2.33,34.1,3
+2024,Notion AI,Media,Data Analysis,Asia,100036,1.28,29.0,4
+2022,Claude,Healthcare,Presentations,Asia,66755,3.91,31.7,4
+2025,Codeium,Education,Presentations,Oceania,77566,4.16,56.5,1
+2021,Otter.ai,Healthcare,Presentations,Asia,100666,2.52,58.2,2
+2024,ChatGPT,Software Development,Meeting Notes,Africa,47835,1.31,46.6,3
+2022,ChatGPT,Finance,Presentations,Europe,35387,0.94,45.1,2
+2025,Midjourney,Media,Image Generation,Asia,106536,3.77,26.0,3
+2024,Murf AI,Design,Data Analysis,South America,46317,3.65,19.4,4
+2024,Synthesia,Design,Coding,Oceania,131280,4.48,24.4,3
+2021,Claude,Education,Coding,Africa,65676,0.82,37.4,2
+2025,Gamma AI,Software Development,Design,Africa,77116,1.56,55.6,3
+2024,Claude,Media,Design,North America,75142,2.62,31.0,4
+2021,Google Gemini,Media,Coding,Asia,52169,2.8,41.9,5
+2023,Copy.ai,Media,Meeting Notes,Africa,81422,4.83,37.6,4
+2021,GrammarlyGO,Media,Image Generation,North America,74113,3.48,25.8,3
+2022,GrammarlyGO,Finance,Presentations,North America,103461,2.75,63.6,5
+2025,Phind,Media,Coding,Oceania,103545,0.89,9.0,4
+2025,Pictory,E-commerce,Data Analysis,North America,102185,0.86,23.1,5
+2024,Cursor AI,Software Development,Meeting Notes,Europe,99754,0.38,24.7,3
+2024,Wordtune,Design,Presentations,Africa,85055,1.94,29.2,4
+2025,Claude,Software Development,Design,Africa,128470,0.31,25.1,1
+2023,Tome AI,Software Development,Design,North America,86942,4.28,9.3,5
+2025,Claude,Media,Data Analysis,Asia,83526,4.52,52.6,5
+2025,Synthesia,Healthcare,Coding,Oceania,75303,2.17,25.3,3
+2022,Replit Ghostwriter,Design,Image Generation,Africa,126695,0.61,21.0,1
+2023,Tome AI,Healthcare,Meeting Notes,North America,78902,3.81,35.0,4
+2021,Tabnine,Media,Research,Oceania,32704,0.57,62.6,1
+2025,Cursor AI,Marketing,Design,Asia,82626,4.83,12.3,1
+2023,Replit Ghostwriter,Design,Data Analysis,Asia,88921,2.02,20.8,3
+2021,Midjourney,Education,Coding,Oceania,70744,3.23,52.5,1
+2023,Replit Ghostwriter,E-commerce,Content Writing,Oceania,72468,3.02,16.4,1
+2023,Codeium,Finance,Content Writing,Oceania,96946,2.12,46.4,2
+2025,Jasper AI,Marketing,Coding,South America,116204,1.52,27.7,5
+2021,Notion AI,Marketing,Image Generation,North America,74979,2.51,58.7,4
+2023,Copy.ai,Design,Content Writing,South America,95990,3.63,11.5,3
+2025,Wordtune,Marketing,Image Generation,Oceania,56945,0.93,62.6,5
+2022,Synthesia,Education,Coding,Africa,144686,2.79,21.8,2
+2021,Phind,Healthcare,Data Analysis,Europe,142708,0.66,23.7,3
+2022,Phind,Healthcare,Presentations,North America,82203,4.09,34.2,1
+2022,Descript,Software Development,Design,Africa,15644,0.51,17.4,5
+2023,Stable Diffusion,Education,Content Writing,South America,128003,2.39,19.9,4
+2023,Tome AI,Design,Content Writing,North America,69122,4.81,19.2,5
+2022,Google Gemini,Design,Design,Asia,99656,4.77,64.7,2
+2024,Perplexity AI,E-commerce,Design,North America,34056,2.35,41.8,3
+2025,Cursor AI,Software Development,Design,Oceania,95865,0.64,43.5,4
+2021,Adobe Firefly,Marketing,Coding,North America,94776,3.86,17.2,3
+2021,Gamma AI,Finance,Design,South America,82574,2.54,48.9,2
+2021,Copy.ai,Healthcare,Meeting Notes,Asia,103592,3.43,17.3,3
+2022,Looka AI,Design,Content Writing,South America,43201,2.96,52.0,2
+2023,Murf AI,E-commerce,Content Writing,Oceania,72608,0.34,28.4,5
+2024,Runway ML,Software Development,Data Analysis,Asia,81978,4.65,21.0,2
+2024,Fireflies.ai,Design,Coding,South America,44487,1.81,56.3,1
+2025,QuillBot,Education,Presentations,Asia,100135,3.73,13.4,5
+2022,Perplexity AI,Finance,Data Analysis,South America,68898,2.56,45.8,3
+2021,GitHub Copilot,Marketing,Presentations,Africa,80016,0.86,24.5,3
+2022,Runway ML,Media,Data Analysis,Oceania,104325,4.97,10.6,4
+2022,Claude,Media,Image Generation,Africa,76563,3.88,29.2,2
+2025,DALL-E,E-commerce,Content Writing,North America,124588,4.62,62.2,1
+2021,Looka AI,Education,Content Writing,North America,63987,3.01,28.4,1
+2021,Perplexity AI,Marketing,Meeting Notes,North America,61461,2.95,28.4,2
+2024,Tome AI,Education,Coding,Africa,105718,3.39,21.7,4
+2022,Fireflies.ai,Software Development,Content Writing,Africa,82428,1.34,10.2,5
+2025,Cursor AI,Healthcare,Presentations,Oceania,53381,0.47,18.0,1
+2024,Murf AI,Design,Content Writing,Asia,69788,4.77,41.2,5
+2024,Runway ML,Media,Research,Europe,102589,2.35,41.1,3
+2022,Replit Ghostwriter,E-commerce,Content Writing,Africa,130516,1.63,28.1,3
+2023,QuillBot,E-commerce,Presentations,North America,85130,4.5,61.9,1
+2025,Phind,Education,Design,Oceania,76326,3.97,35.2,4
+2023,Writesonic,E-commerce,Research,Asia,109649,2.64,19.7,2
+2021,Stable Diffusion,Education,Data Analysis,Asia,44428,1.86,56.7,3
+2024,GrammarlyGO,Marketing,Data Analysis,North America,92908,1.27,12.1,1
+2022,Canva Magic Write,Design,Image Generation,Asia,3873,4.11,55.6,2
+2024,Beautiful.ai,Design,Image Generation,Oceania,87968,1.86,47.5,1
+2021,GrammarlyGO,Finance,Image Generation,Europe,102406,1.01,57.9,5
+2022,Claude,Software Development,Data Analysis,Oceania,117775,2.83,24.1,3
+2022,Descript,Education,Design,Asia,66874,0.9,51.6,1
+2023,Tabnine,E-commerce,Design,South America,79554,0.3,31.7,3
+2023,Google Gemini,Design,Content Writing,Oceania,61728,4.87,20.9,1
+2023,Codeium,Design,Image Generation,Europe,83024,1.73,25.3,3
+2022,Tome AI,Healthcare,Presentations,North America,102381,3.79,56.4,2
+2025,DeepL Write,E-commerce,Meeting Notes,Oceania,47536,2.29,25.3,2
+2025,Synthesia,Finance,Content Writing,Europe,117823,4.14,18.4,4
+2024,Perplexity AI,Marketing,Coding,South America,52565,2.04,59.4,2
+2024,Wordtune,E-commerce,Data Analysis,Africa,64074,3.08,45.7,3
+2022,Descript,Finance,Design,Africa,124671,0.67,39.0,3
+2021,GitHub Copilot,Software Development,Data Analysis,Asia,57086,3.97,41.3,5
+2023,Copy.ai,Finance,Content Writing,Europe,97675,4.78,10.4,5
+2021,Copy.ai,Media,Coding,North America,101513,1.69,48.7,4
+2024,GitHub Copilot,Education,Meeting Notes,South America,36907,3.87,13.8,2
+2023,Jasper AI,Media,Research,Asia,141870,2.04,61.2,5
+2021,Writesonic,E-commerce,Research,Oceania,175297,4.19,47.7,4
+2025,QuillBot,Marketing,Content Writing,North America,72379,4.63,47.6,3
+2022,Adobe Firefly,Healthcare,Data Analysis,Africa,135856,3.73,57.1,3
+2021,Murf AI,E-commerce,Image Generation,Oceania,107168,1.22,27.7,4
+2021,Pictory,Finance,Content Writing,Africa,63482,1.88,63.8,2
+2025,Notion AI,E-commerce,Content Writing,Oceania,95185,3.72,40.0,3
+2023,Stable Diffusion,Design,Content Writing,South America,105368,4.75,36.3,1
+2025,Codeium,Education,Presentations,Oceania,49248,4.0,49.9,5
+2022,Google Gemini,Marketing,Content Writing,South America,70387,2.11,9.4,1
+2024,Notion AI,Media,Coding,Asia,36463,3.61,54.6,2
+2023,GrammarlyGO,E-commerce,Research,North America,71289,2.87,63.1,2
+2021,DALL-E,Healthcare,Image Generation,Africa,82211,3.68,57.2,3
+2023,Jasper AI,Education,Design,Asia,62190,1.14,53.6,3
+2022,Perplexity AI,Design,Image Generation,South America,17399,0.92,57.3,1
+2022,Gamma AI,Design,Design,Asia,114914,1.04,25.7,1
+2024,Canva Magic Write,Education,Design,Oceania,102804,3.46,53.4,1
+2024,DALL-E,Education,Data Analysis,Oceania,70239,1.48,43.6,1
+2025,Otter.ai,Media,Research,South America,118358,4.56,8.7,3
+2022,DeepL Write,Media,Coding,Asia,89837,3.47,11.0,3
+2024,Runway ML,Marketing,Design,Africa,28712,1.74,28.1,4
+2025,Otter.ai,E-commerce,Presentations,Asia,94259,3.22,27.0,1
+2021,Claude,E-commerce,Coding,Europe,63122,0.62,52.7,4
+2023,Pictory,Education,Coding,North America,128011,1.64,32.7,5
+2023,GitHub Copilot,E-commerce,Research,Oceania,48504,0.57,29.3,5
+2022,Copy.ai,Marketing,Meeting Notes,Asia,119074,4.74,44.6,2
+2023,Durable AI,Media,Content Writing,North America,115521,1.24,31.8,5
+2024,Descript,E-commerce,Design,South America,125454,3.83,13.8,4
+2023,Otter.ai,Media,Data Analysis,North America,53087,2.33,63.9,1
+2025,Adobe Firefly,E-commerce,Image Generation,North America,53285,0.62,37.6,3
+2021,Perplexity AI,Design,Design,Africa,75087,3.77,48.2,2
+2024,Notion AI,Education,Data Analysis,Africa,54273,2.29,27.8,5
+2025,Canva Magic Write,Marketing,Content Writing,North America,37104,1.27,35.5,3
+2023,Adobe Firefly,E-commerce,Data Analysis,Africa,62499,1.56,24.4,1
+2023,Claude,Healthcare,Meeting Notes,Africa,88218,3.14,12.4,1
+2021,Tome AI,Media,Content Writing,Europe,84080,0.66,62.2,4
+2023,Adobe Firefly,Marketing,Research,Africa,65599,3.12,43.5,1
+2023,Tabnine,Design,Data Analysis,Europe,73850,3.35,23.2,4
+2024,Adobe Firefly,Marketing,Design,South America,106341,3.62,42.8,2
+2023,Adobe Firefly,Education,Content Writing,Europe,47552,1.77,23.5,1
+2024,Notion AI,Media,Coding,Asia,112529,4.75,14.0,5
+2021,QuillBot,Finance,Presentations,North America,90144,1.03,61.8,1
+2021,Synthesia,Marketing,Design,South America,98544,1.25,41.5,3
+2024,Adobe Firefly,Software Development,Meeting Notes,South America,92217,3.6,46.8,5
+2025,Midjourney,Media,Data Analysis,Asia,75118,3.04,22.4,5
+2022,Google Gemini,Design,Image Generation,Asia,80695,2.42,62.6,2
+2024,ChatGPT,Finance,Data Analysis,South America,115730,1.19,46.3,1
+2023,Copy.ai,Education,Design,South America,71977,4.89,13.8,1
+2023,Fireflies.ai,E-commerce,Data Analysis,South America,81293,0.74,50.7,2
+2023,Canva Magic Write,Software Development,Data Analysis,North America,76769,4.6,32.7,2
+2023,Copy.ai,Finance,Research,Oceania,68897,3.7,8.5,3
+2025,Durable AI,Marketing,Research,Oceania,33802,3.07,43.0,5
+2023,Wordtune,Marketing,Design,Europe,43232,3.66,13.2,2
+2025,DALL-E,Software Development,Research,Oceania,102691,1.24,58.0,2
+2024,Claude,Finance,Design,North America,58487,1.57,22.1,3
+2025,Gamma AI,Healthcare,Presentations,North America,61283,0.59,34.2,4
+2023,Durable AI,Design,Content Writing,Asia,102461,3.46,12.6,2
+2021,Wordtune,Design,Meeting Notes,South America,126617,4.77,55.8,1
+2023,Gamma AI,Software Development,Design,South America,96990,4.68,39.0,5
+2021,Writesonic,Marketing,Research,South America,96160,1.24,43.2,5
+2022,Codeium,Design,Design,Oceania,108074,2.75,11.9,1
+2023,Tome AI,Education,Presentations,Europe,108618,2.04,60.5,2
+2024,Copy.ai,Marketing,Data Analysis,North America,114189,1.56,29.0,1
+2021,Fireflies.ai,Healthcare,Content Writing,Asia,152916,4.51,46.0,1
+2024,Stable Diffusion,Design,Presentations,Europe,75074,3.26,22.2,2
+2022,Murf AI,E-commerce,Meeting Notes,South America,125597,3.62,32.4,2
+2021,Beautiful.ai,E-commerce,Data Analysis,Europe,141775,4.7,11.6,4
+2021,Cursor AI,Design,Presentations,South America,59000,4.18,24.7,1
+2022,Looka AI,Finance,Meeting Notes,Africa,70386,1.71,36.6,5
+2024,Tome AI,Design,Meeting Notes,Africa,80637,0.56,36.0,1
+2024,Adobe Firefly,Education,Meeting Notes,Africa,67206,3.38,22.8,5
+2021,DeepL Write,Media,Design,Europe,125308,1.05,17.1,1
+2022,ChatGPT,Finance,Data Analysis,Europe,105711,4.13,47.1,3
+2022,Claude,E-commerce,Research,South America,92201,0.82,24.5,3
+2023,Looka AI,E-commerce,Coding,Asia,49445,2.72,38.5,3
+2025,Gamma AI,Healthcare,Meeting Notes,Europe,57237,1.98,28.2,4
+2024,Adobe Firefly,Healthcare,Meeting Notes,Oceania,96455,1.75,60.1,4
+2021,Descript,Education,Presentations,North America,98417,4.78,26.6,1
+2024,Durable AI,E-commerce,Content Writing,Asia,84576,4.72,58.0,5
+2025,Tome AI,Healthcare,Coding,Africa,15420,0.78,30.4,2
+2024,Canva Magic Write,Marketing,Presentations,Asia,87256,1.21,57.0,4
+2025,GitHub Copilot,Marketing,Presentations,Europe,171557,3.48,55.8,2
+2024,DeepL Write,Finance,Meeting Notes,North America,94602,2.36,42.8,5
+2022,Google Gemini,Design,Design,Europe,100205,1.05,46.4,2
+2021,Notion AI,Media,Presentations,Oceania,98665,1.38,14.7,1
+2024,Wordtune,E-commerce,Coding,North America,54439,1.08,8.1,2
+2024,Jasper AI,Finance,Content Writing,Europe,111274,2.72,17.2,2
+2023,Durable AI,Finance,Presentations,North America,109553,0.69,9.1,5
+2023,Durable AI,Design,Content Writing,Oceania,60712,0.8,20.7,4
+2021,Descript,E-commerce,Coding,Oceania,44244,2.74,42.6,2
+2024,Google Gemini,Design,Coding,South America,40671,1.33,62.7,1
+2025,Synthesia,Marketing,Presentations,Asia,65056,3.2,39.7,3
+2023,Tabnine,Media,Coding,North America,34420,2.84,47.7,4
+2022,Midjourney,E-commerce,Content Writing,Oceania,25602,3.6,17.8,1
+2021,Notion AI,Marketing,Image Generation,South America,2927,4.39,44.0,1
+2022,DeepL Write,Design,Presentations,Europe,82101,2.8,14.6,1
+2021,Beautiful.ai,Software Development,Design,Africa,54237,1.88,16.1,1
+2023,Adobe Firefly,Healthcare,Presentations,Africa,89661,3.55,19.8,3
+2023,Codeium,Finance,Design,South America,107753,1.26,36.9,3
+2024,ChatGPT,Marketing,Coding,Oceania,74961,2.27,9.0,4
+2025,Canva Magic Write,Design,Design,South America,160623,3.25,47.3,2
+2023,Synthesia,E-commerce,Coding,Europe,48640,1.49,8.6,4
+2022,Perplexity AI,Marketing,Meeting Notes,North America,90419,4.23,54.8,4
+2021,Midjourney,Software Development,Presentations,Africa,134758,4.26,35.7,1
+2024,Adobe Firefly,Design,Image Generation,Asia,114894,2.42,18.5,1
+2021,Synthesia,Design,Meeting Notes,North America,63229,4.32,58.3,1
+2023,Tabnine,Media,Meeting Notes,Europe,57998,2.12,53.8,4
+2023,Fireflies.ai,Marketing,Coding,Asia,80094,4.54,19.6,4
+2024,DeepL Write,Healthcare,Presentations,South America,107452,4.85,11.8,3
+2025,QuillBot,E-commerce,Image Generation,Asia,14593,3.35,12.2,2
+2025,Phind,Marketing,Meeting Notes,Oceania,118002,2.34,64.8,3
+2024,Wordtune,Finance,Meeting Notes,North America,67242,2.93,26.3,5
+2024,Gamma AI,E-commerce,Coding,Europe,62939,2.05,11.9,5
+2021,DALL-E,Software Development,Image Generation,Asia,46310,2.04,34.5,3
+2024,Midjourney,Healthcare,Image Generation,Asia,108911,3.63,8.5,1
+2022,DeepL Write,Healthcare,Data Analysis,South America,120246,1.32,45.7,3
+2023,Tabnine,Software Development,Image Generation,South America,75955,4.08,52.1,4
+2023,Notion AI,Finance,Data Analysis,Africa,81804,2.88,11.8,5
+2022,Canva Magic Write,Marketing,Meeting Notes,Africa,95718,3.98,50.8,3
+2023,Durable AI,E-commerce,Meeting Notes,Oceania,125674,4.07,37.5,3
+2024,Durable AI,Healthcare,Design,Asia,94292,3.22,50.3,4
+2022,Runway ML,Software Development,Meeting Notes,Oceania,56167,1.1,19.1,4
+2023,Murf AI,Marketing,Data Analysis,Africa,90897,4.57,51.2,1
+2024,GitHub Copilot,E-commerce,Research,Europe,95895,3.11,45.3,1
+2023,Descript,Healthcare,Image Generation,Asia,87719,3.27,16.9,1
+2022,Replit Ghostwriter,E-commerce,Content Writing,South America,110239,2.53,48.8,1
+2023,Google Gemini,Finance,Content Writing,Oceania,56570,1.77,21.8,5
+2022,Gamma AI,Software Development,Image Generation,Asia,62437,1.31,32.2,5
+2022,Murf AI,Education,Presentations,Asia,82468,1.18,12.4,1
+2022,Beautiful.ai,Software Development,Coding,Europe,109068,3.57,29.8,2
+2022,Looka AI,E-commerce,Image Generation,Europe,97323,4.04,23.5,3
+2022,Codeium,Media,Design,Europe,112917,3.55,23.1,3
+2023,Cursor AI,Education,Presentations,Asia,87155,1.83,23.4,1
+2023,GitHub Copilot,Marketing,Content Writing,Asia,98597,1.2,47.6,1
+2022,DeepL Write,Healthcare,Design,Oceania,95896,1.54,45.7,2
+2021,Pictory,Finance,Content Writing,North America,40985,4.13,52.3,5
+2021,Descript,Design,Design,Asia,61096,0.72,47.8,1
+2025,Descript,Marketing,Data Analysis,Europe,99460,2.03,32.6,2
+2021,Midjourney,Education,Presentations,Africa,92489,0.48,46.0,3
+2022,Tabnine,Design,Coding,South America,35055,1.82,59.2,1
+2025,Adobe Firefly,Software Development,Data Analysis,Oceania,72116,4.53,64.8,3
+2023,DeepL Write,Finance,Image Generation,Africa,103956,4.18,56.2,4
+2023,Tabnine,Marketing,Meeting Notes,South America,96078,0.62,13.4,5
+2023,Murf AI,Healthcare,Meeting Notes,South America,35932,4.99,26.6,4
+2024,Claude,E-commerce,Content Writing,North America,104703,4.33,64.9,2
+2021,Tome AI,Marketing,Image Generation,Oceania,100374,1.44,10.3,5
+2024,Descript,Healthcare,Meeting Notes,Oceania,51499,0.41,28.5,5
+2022,Claude,Finance,Meeting Notes,Africa,74677,3.98,40.3,2
+2022,Murf AI,Software Development,Design,Europe,114453,1.39,8.8,2
+2022,Tabnine,Education,Presentations,Oceania,42633,3.89,43.6,5
+2025,Jasper AI,Design,Image Generation,North America,93604,2.95,43.6,2
+2024,DeepL Write,E-commerce,Data Analysis,Oceania,114729,4.36,41.5,1
+2023,Notion AI,Software Development,Image Generation,South America,86346,3.86,33.2,3
+2021,Otter.ai,Design,Coding,South America,82717,3.62,30.2,1
+2022,ChatGPT,Design,Content Writing,North America,96995,4.66,61.0,4
+2024,Descript,Marketing,Design,Oceania,40020,1.91,38.1,3
+2022,DALL-E,Design,Design,South America,100765,3.09,11.0,1
+2023,Otter.ai,Design,Data Analysis,Africa,108556,2.44,46.5,5
+2023,Copy.ai,Finance,Content Writing,Oceania,50232,4.73,17.5,3
+2025,Looka AI,Design,Presentations,Oceania,126449,2.65,47.4,2
+2025,Canva Magic Write,Design,Presentations,Asia,112343,1.59,16.9,4
+2024,Google Gemini,Finance,Research,Oceania,122244,3.29,42.2,5
+2024,QuillBot,Marketing,Meeting Notes,Africa,98886,2.44,46.1,3
+2025,Midjourney,Marketing,Coding,South America,55605,4.24,17.7,1
+2022,DeepL Write,Education,Coding,Asia,128624,4.24,53.8,5
+2021,Durable AI,Marketing,Research,North America,107619,4.82,38.5,3
+2021,Looka AI,Media,Design,Oceania,6113,1.02,40.6,5
+2023,GitHub Copilot,Finance,Design,North America,73101,1.6,60.5,4
+2024,Looka AI,Software Development,Design,North America,134664,1.97,11.0,5
+2022,Tabnine,Marketing,Research,South America,129190,0.45,32.1,4
+2022,Cursor AI,Media,Coding,Asia,87850,4.44,58.3,2
+2021,Runway ML,E-commerce,Image Generation,Asia,59251,3.4,20.0,1
+2024,Looka AI,Software Development,Data Analysis,Africa,100885,1.65,53.8,5
+2023,Durable AI,E-commerce,Coding,South America,57870,4.99,9.7,1
+2023,Replit Ghostwriter,Education,Design,Europe,89594,4.87,34.5,1
+2024,Stable Diffusion,Design,Design,Asia,106610,4.28,11.6,4
+2025,Jasper AI,Education,Data Analysis,Asia,66507,4.88,54.6,4
+2023,ChatGPT,Design,Content Writing,North America,76106,4.31,61.5,3
+2025,Perplexity AI,Design,Image Generation,Asia,75824,0.63,20.0,5
+2021,Gamma AI,Design,Presentations,Africa,59602,1.38,34.7,3
+2021,DeepL Write,E-commerce,Meeting Notes,Asia,67265,1.09,16.4,3
+2021,Perplexity AI,Design,Content Writing,South America,73453,4.87,51.3,5
+2023,Descript,Design,Design,North America,80147,1.61,53.5,2
+2021,Notion AI,Software Development,Content Writing,Asia,96383,1.83,25.1,2
+2021,Perplexity AI,Finance,Research,South America,67383,1.51,28.3,1
+2024,Midjourney,E-commerce,Design,South America,71442,3.47,11.6,5
+2021,Looka AI,Design,Coding,Oceania,99850,0.99,27.5,2
+2025,GitHub Copilot,Design,Image Generation,Europe,65277,4.36,16.8,2
+2025,Canva Magic Write,Marketing,Coding,Oceania,81056,1.72,40.1,1
+2024,Perplexity AI,Design,Content Writing,Oceania,56547,4.08,15.8,3
+2022,Codeium,E-commerce,Coding,North America,87515,0.98,43.6,5
+2025,Murf AI,E-commerce,Data Analysis,Asia,162791,1.59,35.8,2
+2021,Cursor AI,Finance,Meeting Notes,Oceania,79582,1.74,54.9,3
+2023,Gamma AI,Marketing,Presentations,Asia,57008,0.57,31.9,1
+2021,DeepL Write,Marketing,Research,Europe,134165,3.0,46.0,1
+2024,QuillBot,Education,Coding,Africa,72362,3.95,57.1,4
+2022,Murf AI,Education,Data Analysis,Europe,93813,4.25,64.4,4
+2022,Midjourney,Education,Image Generation,North America,24169,4.48,29.2,2
+2024,Jasper AI,Education,Research,Africa,80533,3.79,36.1,5
+2021,Descript,Media,Content Writing,Africa,39844,2.57,55.8,2
+2024,Copy.ai,Finance,Research,North America,110543,2.21,26.7,3
+2024,ChatGPT,Software Development,Presentations,South America,71004,2.43,51.5,3
+2023,Jasper AI,Healthcare,Presentations,Europe,74698,4.77,18.0,3
+2021,Notion AI,Healthcare,Data Analysis,Africa,73004,2.97,41.0,5
+2023,Otter.ai,Software Development,Research,North America,148563,1.38,39.5,3
+2023,GitHub Copilot,Finance,Image Generation,North America,77228,2.05,45.7,5
+2024,Beautiful.ai,Software Development,Meeting Notes,Oceania,88503,1.17,23.9,4
+2021,Runway ML,Finance,Image Generation,Africa,49080,1.33,18.4,3
+2024,Cursor AI,Design,Coding,North America,65551,4.66,63.3,4
+2021,Phind,Education,Content Writing,Asia,107000,2.98,16.2,5
+2022,Murf AI,Education,Content Writing,Asia,118538,2.03,13.0,1
+2023,Pictory,Education,Design,South America,66604,2.92,56.2,4
+2025,Codeium,Marketing,Image Generation,Europe,66063,3.46,20.6,2
+2023,DeepL Write,Healthcare,Image Generation,North America,96516,1.33,57.8,5
+2025,Phind,Finance,Design,Oceania,56842,0.3,57.6,2
+2024,Copy.ai,Education,Coding,Africa,55399,4.03,43.8,1
+2024,Adobe Firefly,Finance,Image Generation,Asia,62880,2.45,28.0,4
+2022,Runway ML,E-commerce,Content Writing,Europe,95751,0.74,35.7,4
+2025,DALL-E,Education,Meeting Notes,Africa,53904,1.42,59.8,3
+2023,Durable AI,Education,Meeting Notes,North America,61966,2.5,34.6,2
+2023,Tome AI,Healthcare,Presentations,Africa,63794,2.59,32.5,1
+2021,Pictory,Healthcare,Data Analysis,Europe,95730,3.11,65.0,4
+2022,Codeium,Design,Meeting Notes,South America,66212,4.19,17.7,2
+2025,Wordtune,E-commerce,Meeting Notes,Asia,123650,0.44,19.7,5
+2025,Jasper AI,Software Development,Meeting Notes,Oceania,86237,3.19,59.9,5
+2021,Murf AI,E-commerce,Presentations,North America,18083,2.7,36.6,1
+2021,Perplexity AI,Software Development,Data Analysis,North America,19476,4.24,17.2,5
+2024,Google Gemini,Healthcare,Content Writing,Europe,133740,0.42,33.6,1
+2022,Beautiful.ai,Healthcare,Content Writing,Oceania,64905,3.16,24.0,3
+2022,Cursor AI,Media,Meeting Notes,Africa,91885,1.12,29.6,2
+2021,Claude,Healthcare,Meeting Notes,Oceania,68499,3.83,15.2,1
+2024,Adobe Firefly,Design,Data Analysis,Asia,119714,3.93,21.5,5
+2021,Looka AI,E-commerce,Research,Europe,102565,4.67,30.1,2
+2024,Runway ML,Finance,Meeting Notes,Africa,137458,0.61,9.1,2
+2023,Perplexity AI,Media,Image Generation,Oceania,84942,3.94,21.4,3
+2023,Looka AI,Healthcare,Data Analysis,Africa,120876,1.92,9.7,2
+2023,Beautiful.ai,Software Development,Data Analysis,Asia,84752,4.69,23.1,5
+2022,Stable Diffusion,Marketing,Research,Asia,89567,3.17,46.7,3
+2023,Wordtune,Design,Data Analysis,South America,108074,4.75,58.4,5
+2023,Gamma AI,E-commerce,Research,Europe,68333,3.77,23.8,2
+2021,Google Gemini,Media,Data Analysis,Europe,108281,4.95,25.8,2
+2024,Pictory,Finance,Data Analysis,Africa,126180,1.9,12.5,5
+2021,Replit Ghostwriter,Marketing,Meeting Notes,North America,32815,1.91,55.6,1
+2021,GrammarlyGO,Marketing,Image Generation,North America,70225,4.7,18.6,5
+2023,Replit Ghostwriter,Healthcare,Design,Oceania,101214,0.59,13.3,3
+2022,Synthesia,Education,Data Analysis,Europe,76284,1.07,41.9,5
+2025,GrammarlyGO,Education,Research,Europe,84556,1.46,34.8,5
+2023,Otter.ai,Marketing,Data Analysis,North America,11734,3.41,50.8,5
+2024,Beautiful.ai,Marketing,Content Writing,Oceania,96000,4.55,54.6,4
+2023,DALL-E,Software Development,Meeting Notes,Oceania,127630,3.86,11.2,4
+2024,Fireflies.ai,Education,Content Writing,Asia,53532,2.19,58.4,1
+2025,Cursor AI,Media,Image Generation,North America,134420,4.51,59.8,4
+2024,GrammarlyGO,Software Development,Presentations,Oceania,116068,1.58,18.9,5
+2021,Codeium,E-commerce,Presentations,Asia,48811,1.17,27.5,2
+2021,DALL-E,Marketing,Coding,Asia,118692,0.86,49.9,5
+2025,Otter.ai,Healthcare,Design,Asia,74234,2.8,24.4,2
+2023,Gamma AI,Media,Content Writing,North America,24632,3.1,32.7,1
+2024,Adobe Firefly,Marketing,Research,Oceania,79940,1.07,14.6,1
+2021,Durable AI,Software Development,Coding,Africa,109340,1.92,49.8,1
+2023,Replit Ghostwriter,Design,Research,South America,85172,3.4,61.1,5
+2025,Adobe Firefly,Software Development,Content Writing,Europe,89920,3.39,59.2,1
+2022,Writesonic,Media,Research,Europe,120170,2.18,26.6,1
+2024,Perplexity AI,Education,Meeting Notes,South America,78318,3.01,34.4,2
+2024,Cursor AI,Education,Content Writing,North America,84801,0.86,63.9,3
+2023,Stable Diffusion,Software Development,Design,Asia,127491,0.45,45.5,1
+2025,Descript,Media,Design,Oceania,100063,2.8,13.9,3
+2021,Canva Magic Write,Healthcare,Design,Africa,89732,1.69,61.5,2
+2023,GrammarlyGO,Finance,Presentations,North America,44747,4.15,64.1,2
+2023,Cursor AI,Marketing,Meeting Notes,Oceania,24765,0.54,11.0,3
+2024,Tabnine,Education,Data Analysis,South America,56188,3.55,34.1,1
+2025,Wordtune,E-commerce,Meeting Notes,Oceania,98696,1.49,40.9,5
+2022,Runway ML,Finance,Design,Africa,41935,1.99,54.9,4
+2022,Otter.ai,Design,Research,Oceania,79190,1.95,28.7,5
+2021,Stable Diffusion,Education,Content Writing,Africa,121773,4.09,26.7,2
+2025,GrammarlyGO,Education,Design,Europe,36419,4.25,20.6,2
+2024,Wordtune,Education,Content Writing,Oceania,6964,2.09,54.1,3
+2022,DeepL Write,Education,Content Writing,Africa,69657,2.46,25.3,5
+2024,Cursor AI,Healthcare,Content Writing,Africa,116617,4.68,14.8,2
+2025,Replit Ghostwriter,Finance,Presentations,South America,87712,2.8,9.9,2
+2022,Claude,Healthcare,Content Writing,South America,95476,2.54,31.2,5
+2021,Claude,Finance,Design,Oceania,95605,4.86,40.0,1
+2024,Phind,Finance,Data Analysis,Oceania,52531,3.66,11.9,4
+2024,Tabnine,Finance,Image Generation,Africa,53118,3.18,61.5,4
+2025,Pictory,Marketing,Image Generation,Africa,75801,3.41,12.4,3
+2025,Wordtune,Education,Image Generation,Europe,103438,2.2,55.5,5
+2024,Fireflies.ai,Finance,Design,South America,20501,4.13,42.9,2
+2025,Jasper AI,E-commerce,Meeting Notes,Asia,40849,0.8,28.2,2
+2023,Gamma AI,Software Development,Design,Africa,60716,2.24,46.5,4
+2021,GrammarlyGO,Finance,Data Analysis,North America,65333,2.16,18.4,2
+2025,Cursor AI,Education,Data Analysis,Europe,88131,1.04,55.2,1
+2021,Google Gemini,Software Development,Data Analysis,Africa,79198,1.09,58.1,2
+2021,Stable Diffusion,Media,Meeting Notes,Oceania,66120,2.92,21.2,3
+2025,Midjourney,Marketing,Design,Europe,134647,4.8,20.6,1
+2025,Midjourney,Software Development,Coding,North America,82552,4.47,61.3,3
+2025,Copy.ai,Education,Content Writing,Asia,88757,3.26,31.0,5
+2022,Cursor AI,Healthcare,Research,North America,102781,3.84,38.3,4
+2024,Perplexity AI,Design,Presentations,Europe,60009,3.74,55.0,4
+2023,Copy.ai,Media,Data Analysis,South America,136541,0.99,55.5,1
+2023,Fireflies.ai,Media,Research,Europe,118015,2.33,29.6,3
+2022,Runway ML,Design,Content Writing,Asia,86210,4.6,22.3,3
+2021,Stable Diffusion,Software Development,Data Analysis,Africa,80302,2.72,25.6,4
+2021,Codeium,Marketing,Presentations,North America,118569,2.99,26.5,1
+2022,Looka AI,Education,Design,North America,79166,3.72,27.7,4
+2021,Writesonic,Finance,Data Analysis,South America,94588,3.45,53.9,1
